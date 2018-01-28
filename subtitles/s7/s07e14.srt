@@ -1,0 +1,3943 @@
+1
+00:00:01,901 --> 00:00:05,572
+[announcer] <i>From the legendary</i>
+<i>Orpheum Theatre in Downtown Los Angeles,</i>
+
+2
+00:00:05,638 --> 00:00:10,343
+<i>this is the grand finale</i>
+<i>of</i> RuPaul's Drag Race<i>.</i>
+
+3
+00:00:10,410 --> 00:00:13,480
+♪ <i>We're all born naked</i>
+<i>And the rest is drag</i> ♪
+
+4
+00:00:13,546 --> 00:00:18,485
+[announcer] <i>Ladies and gentlemen,</i>
+<i>presenting the queens of season seven.</i>
+
+5
+00:00:18,551 --> 00:00:23,957
+<i>A queen who took us all by storm,</i>
+<i>Tempest DuJour.</i>
+
+6
+00:00:24,024 --> 00:00:27,961
+♪ <i>We're all born naked</i>
+<i>And the rest is drag</i> ♪
+
+7
+00:00:30,563 --> 00:00:33,933
+[announcer] <i>Ring-a-ding-ding,</i>
+<i>it's Sasha Belle.</i>
+
+8
+00:00:39,472 --> 00:00:44,944
+<i>No tea, no shade, no pink lemonade,</i>
+<i>it's Jasmine Masters.</i>
+
+9
+00:00:50,083 --> 00:00:54,754
+<i>Honey, she's home,</i>
+<i>let's hear it for Mrs. Kasha Davis.</i>
+
+10
+00:01:01,261 --> 00:01:05,432
+<i>She's right on your alley, it's Kandy Ho.</i>
+
+11
+00:01:05,498 --> 00:01:11,871
+♪ <i>Telling, I'm telling the truth now</i>
+<i>Telling, I'm telling the truth now</i> ♪
+
+12
+00:01:11,938 --> 00:01:16,009
+[announcer] <i>Serving</i>
+Fifty Shades of Grey<i>, it's Max.</i>
+
+13
+00:01:16,609 --> 00:01:22,749
+♪ <i>Who do you think you</i>
+<i>Who, who, telling the truth now, who</i> ♪
+
+14
+00:01:22,816 --> 00:01:26,352
+[announcer] <i>Yes, ma'am, Pam,</i>
+<i>it's Jaidynn Diore Fierce.</i>
+
+15
+00:01:26,419 --> 00:01:29,155
+♪ <i>And the rest is drag</i> ♪
+
+16
+00:01:33,993 --> 00:01:38,364
+[announcer] <i>She's always on brand,</i>
+<i>the beautiful Miss Fame.</i>
+
+17
+00:01:45,905 --> 00:01:50,844
+<i>Proof that plastic is fantastic,</i>
+<i>it's Trixie Mattel.</i>
+
+18
+00:01:57,117 --> 00:02:00,987
+<i>Our very own matryoshka doll, Katya.</i>
+
+19
+00:02:07,093 --> 00:02:09,329
+♪ <i>I'm telling the truth now</i> ♪
+
+20
+00:02:09,395 --> 00:02:13,433
+[announcer] <i>LaGuardia, Newark,</i>
+<i>Kennedy Davenport.</i>
+
+21
+00:02:13,500 --> 00:02:16,336
+♪ <i>We're all born naked</i>
+<i>And the rest is drag</i> ♪
+
+22
+00:02:16,402 --> 00:02:20,540
+♪ <i>Who, who do you think you, who</i> ♪
+
+23
+00:02:20,607 --> 00:02:23,042
+♪ <i>Who, telling the truth now</i> ♪
+
+24
+00:02:23,109 --> 00:02:26,946
+[announcer] <i>And now,</i>
+<i>our top three queens.</i>
+
+25
+00:02:27,013 --> 00:02:32,318
+<i>Neat, petite, and always ready to eat,</i>
+<i>it's Ginger Minj.</i>
+
+26
+00:02:33,219 --> 00:02:38,458
+♪ <i>It's never been the clothes</i>
+<i>that make the man</i> ♪
+
+27
+00:02:38,525 --> 00:02:41,261
+♪ <i>Nothing can</i> ♪
+
+28
+00:02:41,327 --> 00:02:44,297
+[announcer] <i>Rise and shine, it's Pearl.</i>
+
+29
+00:02:45,665 --> 00:02:50,570
+♪ <i>I'm telling the truth now, I'm telling</i>
+<i>Telling, I'm telling the truth now</i> ♪
+
+30
+00:02:50,637 --> 00:02:55,275
+♪<i> I'm telling, telling</i>
+<i>I'm telling the truth now</i> ♪
+
+31
+00:02:55,341 --> 00:02:57,277
+[announcer] <i>Last but never the least,</i>
+
+32
+00:02:57,343 --> 00:03:01,648
+<i>a one-of-a-kind collectible,</i>
+<i>Violet Chachki.</i>
+
+33
+00:03:01,714 --> 00:03:07,954
+♪ <i>Who, who, telling the truth now</i>
+<i>Who, who, who do you think you</i> ♪
+
+34
+00:03:08,021 --> 00:03:11,891
+♪ <i>We're all born naked</i>
+<i>And the rest is drag</i> ♪
+
+35
+00:03:15,028 --> 00:03:18,231
+[announcer] <i>Ladies and gentlemen,</i>
+<i>the reason for this season,</i>
+
+36
+00:03:18,298 --> 00:03:22,235
+<i>the supermodel of the world, RuPaul!</i>
+
+37
+00:03:22,302 --> 00:03:27,407
+♪ <i>Feelings aren't real</i>
+<i>Put your money down</i> ♪
+
+38
+00:03:27,473 --> 00:03:33,446
+♪ <i>It's your best spell to win, real is</i>
+<i>What you feel, feelings aren't real</i> ♪
+
+39
+00:03:33,513 --> 00:03:37,817
+♪ <i>Put your money down</i>
+<i>It's your best spell to win</i> ♪
+
+40
+00:03:51,531 --> 00:03:53,666
+♪ <i>The realness</i> ♪
+
+41
+00:03:57,003 --> 00:03:58,638
+Thank you.
+
+42
+00:04:02,175 --> 00:04:04,010
+Let me tell you something.
+
+43
+00:04:04,978 --> 00:04:08,047
+Child, I am feeling mighty real tonight.
+
+44
+00:04:09,349 --> 00:04:15,355
+Mighty real. Are you ready
+to crown America's next drag superstar?
+
+45
+00:04:17,724 --> 00:04:22,595
+Yeah. Good. But before we do,
+
+46
+00:04:22,662 --> 00:04:25,265
+I have one thing to say.
+
+47
+00:04:26,766 --> 00:04:28,968
+You better...
+[blows the whistle]
+
+48
+00:04:30,036 --> 00:04:32,972
+♪ <i>Work, work it, bitch</i>
+<i>Work, work it, bitch</i> ♪
+
+49
+00:04:33,039 --> 00:04:36,542
+♪ <i>Work, work it, bitch</i>
+<i>Work, work it, bitch</i> ♪
+
+50
+00:04:36,609 --> 00:04:39,279
+♪ <i>Work, work it, bitch</i>
+<i>Work, work it, bitch</i> ♪
+
+51
+00:04:39,345 --> 00:04:40,913
+♪ <i>Work, work it, bitch ♪</i>
+
+52
+00:04:43,883 --> 00:04:46,219
+[engine revs]
+
+53
+00:04:46,286 --> 00:04:49,022
+{\an8}[RuPaul] <i>The winner receives</i>
+<i>a one-year supply</i>
+
+54
+00:04:49,088 --> 00:04:51,457
+{\an8}<i>of Anastasia Beverly Hills cosmetics</i>
+
+55
+00:04:51,524 --> 00:04:54,894
+{\an8}<i>and a cash prize of $100,000.</i>
+
+56
+00:04:54,961 --> 00:04:59,432
+{\an8}♪ <i>RuPaul's Drag Race</i>
+<i>May the best woman, best woman win</i> ♪
+
+57
+00:05:03,002 --> 00:05:06,606
+{\an8}Welcome to the grand finale
+of <i>RuPaul's Drag Race</i>.
+
+58
+00:05:06,673 --> 00:05:10,410
+{\an8}Tonight, the queendom has gathered
+from far and near
+
+59
+00:05:10,476 --> 00:05:14,247
+{\an8}to help me crown
+America's next drag superstar.
+
+60
+00:05:14,314 --> 00:05:19,952
+{\an8}In fact, we have the largest turnout ever.
+Sixty queens, past and present,
+
+61
+00:05:20,019 --> 00:05:24,123
+under one roof. Now that's... Yes.
+[cheers and applause]
+
+62
+00:05:24,190 --> 00:05:25,692
+Yes.
+
+63
+00:05:26,326 --> 00:05:28,594
+That's a lot of duct tape.
+
+64
+00:05:28,661 --> 00:05:30,730
+A lot of duct tape.
+
+65
+00:05:30,797 --> 00:05:32,965
+Hey, PorkChop.
+
+66
+00:05:34,901 --> 00:05:37,704
+Michelle Visage,
+I see you brought the girls.
+
+67
+00:05:37,770 --> 00:05:41,207
+-I never leave home without them.
+-[RuPaul] I meant Ross and Carson.
+
+68
+00:05:41,274 --> 00:05:42,942
+[both] Hi!
+
+69
+00:05:43,976 --> 00:05:47,914
+Now, tonight, we're doing
+things a little differently.
+
+70
+00:05:47,980 --> 00:05:51,017
+Ginger Minj, Pearl, and Violet Chachki,
+
+71
+00:05:51,084 --> 00:05:56,889
+I have not, repeat,
+I have not made my final decision.
+
+72
+00:05:56,956 --> 00:06:00,026
+So, to help me make up my mind,
+
+73
+00:06:00,093 --> 00:06:04,063
+I've asked each of you to prepare
+a lip-sync performance
+
+74
+00:06:04,130 --> 00:06:07,300
+to a song created especially for you.
+
+75
+00:06:07,367 --> 00:06:13,606
+Ladies, this will be your last chance
+to impress me and to prove to the world
+
+76
+00:06:13,673 --> 00:06:18,211
+that you have what it takes
+to become America's next drag superstar.
+
+77
+00:06:19,712 --> 00:06:21,214
+Yes.
+
+78
+00:06:21,881 --> 00:06:27,720
+So, gentlemen, start your engines,
+and may the best woman win.
+
+79
+00:06:34,327 --> 00:06:37,764
+Welcome back to the grand finale
+of <i>RuPaul's Drag Race</i>.
+
+80
+00:06:37,830 --> 00:06:41,601
+This season's race for the crown
+is the tightest in herstory.
+
+81
+00:06:41,667 --> 00:06:45,738
+So I've challenged the top three queens
+to perform one last time.
+
+82
+00:06:45,805 --> 00:06:51,778
+First up, get ready to pray and slay
+with the right reverend Ginger Minj.
+
+83
+00:06:51,844 --> 00:06:55,848
+♪ <i>Okay, ladies and gentlemen</i>
+<i>Mama's got to bring it home ♪</i>
+
+84
+00:06:55,915 --> 00:07:01,020
+♪ <i>Here we go</i>
+<i>Eyelashes on, high heels too</i> ♪
+
+85
+00:07:01,087 --> 00:07:04,490
+♪ <i>Can't move too fast</i>
+<i>'Cause all my weight is in my boobs</i> ♪
+
+86
+00:07:04,557 --> 00:07:07,894
+♪ <i>When I wake up, I drink my juice</i> ♪
+
+87
+00:07:07,960 --> 00:07:10,696
+♪ <i>Get on my knees</i>
+<i>And have a kiki with Jesús</i> ♪
+
+88
+00:07:10,763 --> 00:07:14,367
+♪ <i>I say, "Thank you, Lord</i>
+<i>For these hand-me-downs</i> ♪
+
+89
+00:07:14,434 --> 00:07:17,937
+♪ <i>For these lady curves</i>
+<i>On the path I found</i> ♪
+
+90
+00:07:18,004 --> 00:07:21,107
+♪ <i>Because my light ain't hiding</i>
+<i>Behind a bush no more</i> ♪
+
+91
+00:07:21,174 --> 00:07:24,577
+♪ <i>The only bush on me</i>
+<i>Was shaven off this morning</i> ♪
+
+92
+00:07:24,644 --> 00:07:28,448
+♪ <i>Come on now, pray and sing</i> ♪
+
+93
+00:07:28,514 --> 00:07:35,021
+♪<i> There ain't no way to pray the gay away</i>
+<i>Come on now, pray and sing</i> ♪
+
+94
+00:07:35,087 --> 00:07:38,224
+♪ <i>'Cause there ain't no way</i>
+<i>To pray the gay away</i> ♪
+
+95
+00:07:38,291 --> 00:07:42,328
+♪ <i>Come on now, pray, pray, pray, pray</i>
+<i>And sing, sing, sing, sing</i> ♪
+
+96
+00:07:42,395 --> 00:07:45,398
+♪ <i>Pray, pray, pray, pray and sing</i> ♪
+
+97
+00:07:45,965 --> 00:07:51,704
+♪ <i>So when you're feeling down</i>
+<i>In the morning</i> ♪
+
+98
+00:07:51,771 --> 00:07:54,941
+♪ <i>I tell you what you, what you</i> ♪
+
+99
+00:07:55,007 --> 00:08:00,246
+♪ <i>What you're supposed to do</i> ♪
+
+100
+00:08:00,313 --> 00:08:04,851
+♪ <i>It's time to pray and sing</i> ♪
+
+101
+00:08:04,917 --> 00:08:08,187
+♪ <i>'Cause there ain't no way</i>
+<i>To pray the gay away</i> ♪
+
+102
+00:08:08,254 --> 00:08:11,824
+♪ <i>It's time to pray, ooh, and sing</i> ♪
+
+103
+00:08:11,891 --> 00:08:16,696
+♪ <i>'Cause there ain't</i>
+<i>No way to pray the...</i> ♪
+
+104
+00:08:17,697 --> 00:08:19,065
+♪ <i>Gay</i> ♪
+
+105
+00:08:26,005 --> 00:08:31,544
+♪ <i>Away</i> ♪
+
+106
+00:08:42,755 --> 00:08:45,491
+[RuPaul] Ginger Minj,
+you just flooded my basement.
+
+107
+00:08:45,558 --> 00:08:49,862
+While you catch your breath,
+let's talk to the judges. Michelle Visage,
+
+108
+00:08:49,929 --> 00:08:54,100
+-what did you think?
+-Very Patti LaBelle. No, she better do.
+
+109
+00:08:54,767 --> 00:08:57,370
+-I'm very proud of you, Ginger Minj.
+-Thank you.
+
+110
+00:08:57,436 --> 00:09:01,541
+You have always been an entertainer,
+and that's how you got here.
+
+111
+00:09:01,607 --> 00:09:05,745
+-Congratulations, honey.
+-Well, praise the Lord and hallelu-jer.
+
+112
+00:09:05,811 --> 00:09:08,414
+I still love the minj.
+
+113
+00:09:11,250 --> 00:09:14,287
+Well, thank you, judges.
+Ginger, tonight, you took us to church,
+
+114
+00:09:14,353 --> 00:09:19,625
+but all season long, you've been taking us
+on one wild ride. Let's take a look.
+
+115
+00:09:21,661 --> 00:09:25,731
+{\an8}Hi, fellas. I like to describe myself
+as a glamour toad.
+
+116
+00:09:25,798 --> 00:09:28,634
+{\an8}She always wants to look neat,
+petite, and ready to eat.
+
+117
+00:09:28,701 --> 00:09:30,636
+-I have low sugar.
+-[laughter]
+
+118
+00:09:32,138 --> 00:09:34,974
+♪ <i>Eggs, eggs, eggs</i>
+<i>All I want is eggs</i> ♪
+
+119
+00:09:35,541 --> 00:09:38,911
+[Michelle] <i>She can give you comedy,</i>
+<i>glamour, singing, and acting.</i>
+
+120
+00:09:38,978 --> 00:09:40,780
+<i>I mean, she's a quadruple threat.</i>
+
+121
+00:09:40,846 --> 00:09:45,184
+This is America. Land of the free,
+home of the fat people.
+
+122
+00:09:45,251 --> 00:09:50,590
+If we're supersizing our French fries,
+why not supersize our next drag superstar?
+
+123
+00:09:50,656 --> 00:09:53,092
+[laughter]
+
+124
+00:09:53,659 --> 00:09:58,631
+-You and the bitter old lady brigade...
+-Oh, girl.
+
+125
+00:09:58,698 --> 00:10:01,100
+were throwing shade at the younger girls.
+
+126
+00:10:01,167 --> 00:10:04,537
+-Do you regret that?
+-Well, let me say, I'm a size 22,
+
+127
+00:10:04,604 --> 00:10:08,774
+no matter which way the light hits me,
+I'm gonna throw shade somewhere.
+
+128
+00:10:10,643 --> 00:10:12,845
+But, in all serious... You know,
+
+129
+00:10:12,912 --> 00:10:17,416
+when I was growing up, I came
+from a very Southern, very practical,
+
+130
+00:10:17,483 --> 00:10:21,554
+church-going family, so I was
+never encouraged to speak my mind
+
+131
+00:10:21,621 --> 00:10:23,255
+or ask questions.
+
+132
+00:10:23,322 --> 00:10:24,790
+Drag gave me my voice.
+
+133
+00:10:24,857 --> 00:10:29,428
+So I'm finally not afraid
+to ask questions and say what I feel.
+
+134
+00:10:29,495 --> 00:10:34,100
+I know, girl, that I do come off
+a little bit abrasive sometimes,
+
+135
+00:10:34,166 --> 00:10:38,037
+but it all comes
+from a place of love. That's it.
+
+136
+00:10:38,104 --> 00:10:40,806
+All right. Good.
+
+137
+00:10:41,407 --> 00:10:46,312
+So I'll tell you what. We're gonna take
+some questions from your fans.
+
+138
+00:10:46,379 --> 00:10:47,713
+[Darienne] Hi.
+
+139
+00:10:48,180 --> 00:10:53,386
+{\an8}Celeste from Richmond wants to know:
+"Is it time for a big girl to win?"
+
+140
+00:10:53,452 --> 00:10:59,525
+{\an8}Well, it is time for a big girl to win,
+but I don't want to win because I'm big,
+
+141
+00:10:59,592 --> 00:11:04,864
+but because I came in with guns a-blazing,
+and I killed the competition.
+
+142
+00:11:10,036 --> 00:11:13,739
+So, you've got a lot of people
+rooting for you. Let's take a look.
+
+143
+00:11:13,806 --> 00:11:17,643
+Hi, Ginger, this is your sister.
+I've always known you were a star.
+
+144
+00:11:17,710 --> 00:11:21,347
+I hope America sees
+what the family has always seen in you.
+
+145
+00:11:21,414 --> 00:11:24,650
+Hi, I'm John Waters,
+and I'm here for Ginger Minj.
+
+146
+00:11:24,717 --> 00:11:29,055
+Congratulations on getting to the finals
+of <i>RuPaul's Drag Race.</i>
+
+147
+00:11:29,121 --> 00:11:33,893
+I'm rooting for you, and so is
+Edith Massey from beyond the grave.
+
+148
+00:11:33,959 --> 00:11:36,662
+Hi, Ginger, it's mom.
+I'm so proud of you. 
+
+149
+00:11:36,729 --> 00:11:42,601
+I love watching you perform. I love you
+so much, and congratulations. Bye!
+
+150
+00:11:42,668 --> 00:11:46,372
+Hey, Ginger, this is dad.
+You know I've always been proud of you,
+
+151
+00:11:46,439 --> 00:11:51,777
+and I'm proud that you're my son,
+and I've always tried to be there for you,
+
+152
+00:11:51,844 --> 00:11:56,849
+and I know sometimes I've failed at that,
+but, you know, I'm a work in progress.
+
+153
+00:11:56,916 --> 00:11:59,518
+For you to think
+that I don't approve of you
+
+154
+00:11:59,585 --> 00:12:01,620
+makes me feel like I failed as a father.
+
+155
+00:12:01,687 --> 00:12:05,157
+There's no way
+that I don't approve of you.
+
+156
+00:12:05,224 --> 00:12:08,427
+Hopefully, tonight,
+we can start two new chapters.
+
+157
+00:12:08,494 --> 00:12:11,797
+One, you winning everything
+and going on to your fame and fortune,
+
+158
+00:12:11,864 --> 00:12:13,833
+something that you've worked...
+
+159
+00:12:16,335 --> 00:12:17,536
+[exhales deeply]
+
+160
+00:12:17,603 --> 00:12:20,005
+...you've worked very hard for.
+
+161
+00:12:20,940 --> 00:12:25,044
+And hopefully, we can start
+another chapter, you and I, 
+
+162
+00:12:25,111 --> 00:12:30,716
+and we can move on and bond together
+from here forward. Sorry.
+
+163
+00:12:30,783 --> 00:12:33,285
+Nobody knows how hard he's worked.
+
+164
+00:12:33,919 --> 00:12:36,088
+He's very special.
+
+165
+00:12:36,155 --> 00:12:40,359
+Good luck tonight. I'm so proud of you.
+And we'll definitely be watching.
+
+166
+00:12:40,426 --> 00:12:43,062
+[cheers and applause]
+
+167
+00:12:49,101 --> 00:12:51,771
+What does it feel like
+to hear your father say those words?
+
+168
+00:12:52,671 --> 00:12:55,508
+{\an8}Other than my mom,
+I never felt loved growing up.
+
+169
+00:12:55,574 --> 00:13:00,679
+{\an8}And I hope that this does lead to...
+
+170
+00:13:00,746 --> 00:13:03,315
+not only reconciliation, but...
+
+171
+00:13:03,749 --> 00:13:06,819
+a relationship that I never had.
+
+172
+00:13:06,886 --> 00:13:09,155
+[cheers and applause]
+
+173
+00:13:13,292 --> 00:13:15,928
+And I hope he feels bad enough
+to buy me new bottom lashes
+
+174
+00:13:15,995 --> 00:13:17,863
+'cause these were custom.
+
+175
+00:13:19,398 --> 00:13:22,168
+So what would it mean to you
+to become America's next drag superstar?
+
+176
+00:13:22,835 --> 00:13:26,405
+Oh, God. Who doesn't want
+to be part of that legacy?
+
+177
+00:13:26,472 --> 00:13:30,242
+I mean, you've created something
+that's so special for all of us.
+
+178
+00:13:30,309 --> 00:13:35,247
+And to even be considered
+to be part of that is overwhelming.
+
+179
+00:13:37,616 --> 00:13:40,519
+Ginger, you are my kind
+of plus-size queen.
+
+180
+00:13:40,586 --> 00:13:45,825
+You've got a big talent, a big heart,
+and a big future ahead of you.
+
+181
+00:13:45,891 --> 00:13:47,726
+-I love you, Ginger.
+-I love you too.
+
+182
+00:13:47,793 --> 00:13:49,328
+We all love the minj.
+
+183
+00:13:57,636 --> 00:14:00,873
+Welcome back to the grand finale
+of <i>RuPaul's Drag Race</i>.
+
+184
+00:14:00,940 --> 00:14:04,877
+The final face-off
+between our top three queens continues.
+
+185
+00:14:04,944 --> 00:14:10,983
+She started out as a sleeping beauty,
+but will her fairy tale end with a crown?
+
+186
+00:14:11,050 --> 00:14:14,753
+Please welcome
+everybody's favorite sleepwalker, Pearl.
+
+187
+00:14:22,795 --> 00:14:25,264
+♪ <i>Now I lay me down to sleep</i> ♪
+
+188
+00:14:26,398 --> 00:14:29,168
+♪ <i>I pray to drag my dress is chic</i> ♪
+
+189
+00:14:30,369 --> 00:14:34,540
+♪ <i>Ever since she was a child</i> ♪
+
+190
+00:14:34,607 --> 00:14:38,043
+♪ <i>Whoa-oh, whoa-oh, whoa-oh</i> ♪
+
+191
+00:14:38,110 --> 00:14:42,581
+♪ <i>She wasn't loud, she wasn't wild</i> ♪
+
+192
+00:14:42,648 --> 00:14:47,353
+♪ <i>No-oh, no-oh, no-oh, sleepwalker</i> ♪
+
+193
+00:14:47,419 --> 00:14:53,359
+♪ <i>She's the queen of your dreams</i>
+<i> Sleepwalker, chamomile and caffeine</i> ♪
+
+194
+00:14:53,425 --> 00:14:57,296
+♪<i> Not even the loud boys wake her</i>
+<i> Oh, oh, oh </i>♪
+
+195
+00:15:00,566 --> 00:15:04,103
+♪ <i>Sleepwalker, never opens her eyes</i> ♪
+
+196
+00:15:04,169 --> 00:15:08,274
+♪ <i>Sleepwalker, taking you by surprise</i> ♪
+
+197
+00:15:08,340 --> 00:15:12,311
+♪ <i>Not even the loud boys wake her</i>
+<i>Oh, oh, oh</i> ♪
+
+198
+00:15:19,218 --> 00:15:23,389
+♪ <i>Sleepwalker, loud boys</i> ♪
+
+199
+00:15:26,892 --> 00:15:29,295
+♪ <i>Sleepwalker</i> ♪
+
+200
+00:15:32,765 --> 00:15:34,867
+♪ <i>Sleepwalker</i> ♪
+
+201
+00:15:49,648 --> 00:15:52,851
+-Good morning, Pearl.
+-Good morning.
+
+202
+00:15:52,918 --> 00:15:56,255
+It's time to hear from the judges.
+Michelle, what do you have to say?
+
+203
+00:15:56,322 --> 00:15:59,558
+You came into this competition,
+you had a bit of an attitude,
+
+204
+00:15:59,625 --> 00:16:04,063
+but as time went on,
+you became lovable, you became awake,
+
+205
+00:16:04,129 --> 00:16:06,665
+and you earned
+your spot here in the final.
+
+206
+00:16:08,067 --> 00:16:11,637
+-You had to come out of your shell...
+-Oh, look at you.
+
+207
+00:16:11,704 --> 00:16:14,873
+-Don't you love...
+-Like a pearl, pearl in a shell.
+
+208
+00:16:15,341 --> 00:16:21,880
+But I think the audience has spoken,
+and the people like you. They really do.
+
+209
+00:16:22,715 --> 00:16:25,050
+Congratulations.
+
+210
+00:16:27,653 --> 00:16:31,256
+You've come a long way, baby.
+Let's take a look.
+
+211
+00:16:33,192 --> 00:16:39,798
+{\an8}'Sup? I would describe Pearl
+as a robotic Stepford wife bitch.
+
+212
+00:16:39,865 --> 00:16:46,805
+<i>I've been drawing Pearl since I was ten.</i>
+<i>Then one day, I just painted her on me.</i>
+
+213
+00:16:47,206 --> 00:16:49,241
+You've been sleepwalking.
+
+214
+00:16:49,742 --> 00:16:51,076
+Wake up, Pearl.
+
+215
+00:16:54,146 --> 00:16:55,748
+Wake up.
+
+216
+00:16:55,814 --> 00:16:58,751
+You kind of, like,
+told me I had no personality.
+
+217
+00:16:58,817 --> 00:17:02,221
+Well, I'm hoping
+it will light a fire under your ass.
+
+218
+00:17:06,525 --> 00:17:08,827
+-Do I have something on my face?
+-Ah!
+
+219
+00:17:08,894 --> 00:17:12,364
+I had a rough childhood, okay?
+I wasn't watching <i>Batman and Robin.</i>
+
+220
+00:17:13,465 --> 00:17:16,402
+[Michelle] <i>Someone set</i>
+<i>their alarm clock and woke up.</i>
+
+221
+00:17:16,468 --> 00:17:19,138
+[RuPaul] <i>Well,</i> flazéda<i>.</i>
+
+222
+00:17:19,204 --> 00:17:21,707
+-<i>You're a weirdo.</i>
+-[Pearl] <i>Oh, yeah.</i>
+
+223
+00:17:21,774 --> 00:17:24,209
+[RuPaul] <i>Boy, have you changed.</i>
+
+224
+00:17:24,276 --> 00:17:26,945
+Now, there's nothing
+that could break my spirit.
+
+225
+00:17:27,012 --> 00:17:29,715
+Attagirl, Pearl.
+
+226
+00:17:29,782 --> 00:17:31,617
+[cheers and applause]
+
+227
+00:17:33,419 --> 00:17:38,123
+-So, Pearl, what made you wake up?
+-You said something a long time ago.
+
+228
+00:17:38,190 --> 00:17:42,061
+It was like, "The fear of looking
+stupid is really holding you back,"
+
+229
+00:17:42,127 --> 00:17:47,166
+and, yeah, I mean, I'm not a quitter.
+And I wasn't about to quit on <i>Drag Race</i>.
+
+230
+00:17:47,232 --> 00:17:49,101
+Good, I'm glad you didn't.
+
+231
+00:17:50,269 --> 00:17:54,706
+Have you heard of this conspiracy theory
+called the Curse of Pearl,
+
+232
+00:17:54,773 --> 00:17:59,244
+where any queen who crosses you
+immediately goes home?
+
+233
+00:17:59,311 --> 00:18:01,914
+Yeah, it's been brought up.
+You didn't go home though.
+
+234
+00:18:01,980 --> 00:18:03,816
+Uh, bitch...
+
+235
+00:18:04,917 --> 00:18:07,453
+The thing is, I actually...
+I didn't cross you.
+
+236
+00:18:07,519 --> 00:18:10,289
+I almost just threw your ass
+out of the door.
+
+237
+00:18:17,162 --> 00:18:21,133
+{\an8}Take a look at this.
+Which queen has least impressed you?
+
+238
+00:18:21,200 --> 00:18:23,068
+I'd have to say Pearl.
+
+239
+00:18:24,002 --> 00:18:26,738
+[RuPaul] Sasha Belle, sashay away.
+
+240
+00:18:26,805 --> 00:18:31,577
+I noticed this black trim around her chin.
+I'm thinking, "What the hell is that?"
+
+241
+00:18:32,311 --> 00:18:35,247
+[RuPaul] Jasmine, girl, sashay away.
+
+242
+00:18:35,314 --> 00:18:39,051
+There is this part of Pearl
+that is too cool for season seven.
+
+243
+00:18:40,986 --> 00:18:42,955
+[RuPaul] Sashay away.
+
+244
+00:18:43,021 --> 00:18:46,325
+I can forgive her, but I'll never forget.
+
+245
+00:18:49,228 --> 00:18:51,029
+[RuPaul laughs]
+
+246
+00:18:52,131 --> 00:18:54,566
+-We have some questions from some fans.
+-Oh.
+
+247
+00:18:54,633 --> 00:18:56,835
+Oh, look who's here. It's Alaska.
+
+248
+00:18:57,636 --> 00:18:58,804
+{\an8}Hi!
+
+249
+00:18:58,871 --> 00:19:00,706
+Hi!
+
+250
+00:19:00,772 --> 00:19:01,673
+'Sup?
+
+251
+00:19:03,909 --> 00:19:08,947
+Xavier from California wants to know:
+
+252
+00:19:10,549 --> 00:19:16,822
+"Pearl, is it just me,
+or does everybody want to fuck you?"
+
+253
+00:19:21,560 --> 00:19:24,296
+I'm single. Single.
+
+254
+00:19:26,665 --> 00:19:29,801
+How do you deal
+with the attention you've gotten?
+
+255
+00:19:29,868 --> 00:19:32,971
+I want people to like me
+because I'm talented and I'm unique
+
+256
+00:19:33,038 --> 00:19:35,674
+and I have nerve,
+and I have, you know, charisma,
+
+257
+00:19:35,741 --> 00:19:39,845
+or... not in that order. But thank you.
+
+258
+00:19:41,346 --> 00:19:42,681
+[RuPaul] Now,
+
+259
+00:19:42,748 --> 00:19:46,251
+you have a lot of people
+in your corner. Let's take a look.
+
+260
+00:19:46,318 --> 00:19:50,355
+I have something on my face,
+and it's a big smile of love,
+
+261
+00:19:50,422 --> 00:19:53,625
+pride, and joy
+for my number-one grandson.
+
+262
+00:19:53,692 --> 00:19:56,562
+-Love you, Matty. From your grandma.
+-Ah!
+
+263
+00:19:56,628 --> 00:19:59,932
+Hey, Pearl.
+Chicago family sends you love.
+
+264
+00:19:59,998 --> 00:20:03,335
+-You've slayed all season.
+-You've been killing it. We love you.
+
+265
+00:20:03,402 --> 00:20:05,270
+Come on, chin strap!
+
+266
+00:20:05,337 --> 00:20:08,540
+-We're so proud of you.
+-So proud.
+
+267
+00:20:08,607 --> 00:20:12,110
+-We wish you all the luck in the world.
+-We love you.
+
+268
+00:20:12,177 --> 00:20:15,147
+-Love you so much.
+-Love you. More than anything.
+
+269
+00:20:15,214 --> 00:20:20,219
+I wanted to send you a quick message
+letting you know how proud I am of you.
+
+270
+00:20:20,285 --> 00:20:23,155
+You have always been a special...
+
+271
+00:20:24,389 --> 00:20:25,857
+special little boy,
+
+272
+00:20:25,924 --> 00:20:30,963
+from the time you were two and three,
+running around in your sister's tutu,
+
+273
+00:20:31,029 --> 00:20:35,434
+to the time that I knew
+I was going to lose you to a big city.
+
+274
+00:20:35,500 --> 00:20:40,439
+I knew one thing would never change,
+and that is my love for you.
+
+275
+00:20:40,505 --> 00:20:43,775
+I love you as my son.
+I love you as Pearl.
+
+276
+00:20:43,842 --> 00:20:46,345
+And we could not be more proud of you.
+
+277
+00:20:46,411 --> 00:20:50,882
+And I am so happy
+to have watched you go through this.
+
+278
+00:20:50,949 --> 00:20:53,619
+I love you, and we'll see you soon.
+
+279
+00:20:58,557 --> 00:21:00,492
+[cheers and applause]
+
+280
+00:21:01,526 --> 00:21:05,430
+Pearl, your mother is here.
+I want to say hi to the mother of Pearl.
+
+281
+00:21:05,497 --> 00:21:08,400
+{\an8}-Hello, mother of Pearl.
+-Hello, Ru.
+
+282
+00:21:08,467 --> 00:21:14,873
+{\an8}Now, you've gone over and above
+for your support of Pearl. Tell us more.
+
+283
+00:21:14,940 --> 00:21:17,976
+One day, I thought,
+"I should do a fan page."
+
+284
+00:21:18,043 --> 00:21:23,015
+Within just a few hours,
+I was literally inundated
+
+285
+00:21:23,081 --> 00:21:28,987
+with private messaging
+from younger gay boys, um...
+
+286
+00:21:29,054 --> 00:21:30,455
+Looking for sex.
+
+287
+00:21:35,327 --> 00:21:39,398
+-No, that's... that's <i>my</i> fan page.
+-No, that's your fan page, right.
+
+288
+00:21:39,464 --> 00:21:41,967
+[Pearl's mother] I was messaged
+by so many people.
+
+289
+00:21:42,034 --> 00:21:45,971
+"How do I come out to my parents?"
+It's been pretty amazing.
+
+290
+00:21:46,038 --> 00:21:48,640
+That's fabulous. That's wonderful.
+
+291
+00:21:49,241 --> 00:21:53,312
+So, Pearl, what would you do
+with $100,000?
+
+292
+00:21:53,378 --> 00:21:59,484
+Maybe buy some nice wigs after seeing
+myself in thirsty-ass wigs all season.
+
+293
+00:22:01,353 --> 00:22:03,855
+Now, one final question:
+
+294
+00:22:03,922 --> 00:22:05,691
+do I have something on my face?
+
+295
+00:22:10,862 --> 00:22:14,132
+The answer is yes.
+And it's a mixture of pride,
+
+296
+00:22:14,199 --> 00:22:17,769
+affection, and about
+two and a half inches of foundation.
+
+297
+00:22:19,137 --> 00:22:21,373
+Ladies and gentlemen,
+give it up for Pearl.
+
+298
+00:22:28,213 --> 00:22:31,717
+Welcome back to the grand finale
+of <i>RuPaul's Drag Race</i>.
+
+299
+00:22:31,783 --> 00:22:36,054
+It's time for one last tango
+with a queen who's always in vogue.
+
+300
+00:22:36,121 --> 00:22:38,657
+Please welcome Violet Chachki.
+
+301
+00:22:44,363 --> 00:22:47,532
+♪ <i>He wants to take me to breakfast</i> ♪
+
+302
+00:22:48,200 --> 00:22:50,202
+♪ <i>He wants to show me his house</i> ♪
+
+303
+00:22:51,970 --> 00:22:53,972
+♪ <i>He wants to meet me in London</i> ♪
+
+304
+00:22:55,574 --> 00:22:58,677
+♪ <i>He wants to drive me around</i> ♪
+
+305
+00:22:59,244 --> 00:23:03,081
+♪ <i>I can't fix this problem of mine</i> ♪
+
+306
+00:23:03,148 --> 00:23:06,685
+♪ <i>Too many daddies and not enough time</i> ♪
+
+307
+00:23:09,221 --> 00:23:11,423
+♪ <i>One at a time, boy</i>s ♪
+
+308
+00:23:14,960 --> 00:23:17,329
+♪ <i>He wants to loosen my corset</i> ♪
+
+309
+00:23:18,697 --> 00:23:20,899
+♪ <i>He wants to buy me a ring</i> ♪
+
+310
+00:23:22,434 --> 00:23:24,336
+♪ <i>He wants to teach me to tango</i> ♪
+
+311
+00:23:26,171 --> 00:23:29,641
+♪ <i>He wants to do everything</i> ♪
+
+312
+00:23:29,708 --> 00:23:33,478
+♪ <i>I've got all them standing in line</i> ♪
+
+313
+00:23:33,545 --> 00:23:37,549
+♪ <i>Too many daddies and not enough time</i> ♪
+
+314
+00:23:54,933 --> 00:23:59,938
+♪ <i>Gee, there's a lot of ya</i>
+<i>Too many daddies, too many daddies</i> ♪
+
+315
+00:24:00,005 --> 00:24:05,577
+♪ <i>Too many daddies</i>
+<i>Too many daddies, too many daddies</i> ♪
+
+316
+00:24:05,644 --> 00:24:09,080
+♪ <i>Too many daddies and not</i> ♪
+
+317
+00:24:10,549 --> 00:24:15,253
+♪ <i>And not enough time</i> ♪
+
+318
+00:24:15,320 --> 00:24:18,790
+♪ <i>Yeah, yeeeaaahhh</i> ♪
+
+319
+00:24:19,658 --> 00:24:21,293
+[cheers and applause]
+
+320
+00:24:30,902 --> 00:24:33,171
+[RuPaul] Come through, mama!
+
+321
+00:24:33,572 --> 00:24:39,010
+Okay, Violet, let's talk to the judges,
+starting with... I hate Michelle Visage.
+
+322
+00:24:41,513 --> 00:24:46,852
+You can hate me all you want.
+I loves me some Violet Chachki.
+
+323
+00:24:50,255 --> 00:24:53,325
+What's so impressive about you
+is you have beautiful clothes,
+
+324
+00:24:53,391 --> 00:24:55,727
+but you wear the clothes,
+they don't wear you.
+
+325
+00:24:55,794 --> 00:24:58,463
+You really present yourself.
+
+326
+00:24:58,530 --> 00:24:59,531
+Thank you.
+
+327
+00:24:59,598 --> 00:25:02,467
+Every week,
+I've been on the edge of my seat
+
+328
+00:25:02,534 --> 00:25:05,103
+waiting for you to electrify me
+with your looks.
+
+329
+00:25:05,170 --> 00:25:09,207
+And tonight, though, you electrified me
+with your performance, honey.
+
+330
+00:25:10,141 --> 00:25:12,711
+-[Ross] You earned it.
+-Thank you.
+
+331
+00:25:12,777 --> 00:25:16,214
+Thank you, judges.
+Now, Violet Chachki, since day one,
+
+332
+00:25:16,281 --> 00:25:18,083
+you wowed us with your runway,
+
+333
+00:25:18,149 --> 00:25:21,453
+but this competition
+has not always been a cinch for you.
+
+334
+00:25:21,520 --> 00:25:23,188
+Let's take a look.
+
+335
+00:25:23,555 --> 00:25:25,957
+{\an8}I'm a one-of-a-kind collectible.
+
+336
+00:25:26,024 --> 00:25:26,992
+{\an8}Party.
+
+337
+00:25:27,058 --> 00:25:32,097
+{\an8}<i>My biggest strength is aesthetics.</i>
+<i>I'm very visually appealing.</i>
+
+338
+00:25:32,163 --> 00:25:32,931
+Is that conceited?
+
+339
+00:25:32,998 --> 00:25:37,402
+[RuPaul] <i>You took fashion risks,</i>
+<i>and they paid off.</i>
+
+340
+00:25:38,770 --> 00:25:43,742
+[Violet] <i>I'm giving you tartan eleganza.</i>
+<i>I'm giving you 1956 Dior.</i>
+
+341
+00:25:43,808 --> 00:25:47,846
+<i>I'm giving you John Willie</i>
+<i>vintage smut for your nerves.</i>
+
+342
+00:25:47,913 --> 00:25:51,349
+You might have been playing
+a dead person, but we were living.
+
+343
+00:25:51,416 --> 00:25:55,053
+Violet does have a tendency
+to be sort of bitchy.
+
+344
+00:25:55,120 --> 00:25:58,089
+You are the team leader.
+Whatever you want, boo-boo.
+
+345
+00:25:58,924 --> 00:26:01,426
+They think I'm mean, but all I've done
+
+346
+00:26:01,493 --> 00:26:04,129
+either comes from a place of humor
+or a place of truth.
+
+347
+00:26:04,195 --> 00:26:06,831
+The biggest thing
+that I've learned in this process
+
+348
+00:26:06,898 --> 00:26:10,268
+<i>is to just be aware</i>
+<i>of your first impressions.</i>
+
+349
+00:26:10,335 --> 00:26:15,440
+<i>I represent the past, the present,</i>
+<i>but more than anything, the future.</i>
+
+350
+00:26:24,683 --> 00:26:27,385
+So when did you start
+designing your own clothes?
+
+351
+00:26:27,452 --> 00:26:30,855
+I think I started sewing
+around, like, eighth grade.
+
+352
+00:26:30,922 --> 00:26:33,224
+Skinny jeans were just becoming a thing,
+
+353
+00:26:33,291 --> 00:26:34,926
+and they didn't have them
+in boys' clothes.
+
+354
+00:26:34,993 --> 00:26:38,496
+And I also tailored
+my Catholic school uniform.
+
+355
+00:26:38,563 --> 00:26:41,232
+-You went to Catholic school?
+-K through 12.
+
+356
+00:26:41,299 --> 00:26:47,072
+I would do alterations mostly, so I think
+at 12 or 13, I got a sewing machine.
+
+357
+00:26:47,138 --> 00:26:49,007
+Where'd all this confidence come from?
+
+358
+00:26:49,841 --> 00:26:54,312
+I got to a point in my life where I was
+sick of dealing with other people's...
+
+359
+00:26:54,379 --> 00:26:55,914
+What they wanted me to do.
+
+360
+00:26:55,981 --> 00:27:00,085
+I said, "You know what? I'm gonna
+live my life for me, and that's it."
+
+361
+00:27:04,255 --> 00:27:06,625
+We have some fan questions.
+Are you ready?
+
+362
+00:27:06,691 --> 00:27:08,994
+-Yeah, let's do it.
+-All right, there is Gia Gunn.
+
+363
+00:27:10,195 --> 00:27:12,664
+{\an8}[Violet] Hi, Gia Gunn.
+
+364
+00:27:12,731 --> 00:27:16,568
+From Skylar from California:
+
+365
+00:27:16,635 --> 00:27:22,574
+"Violet, what would you tell a teenager
+who wants to do drag
+
+366
+00:27:22,641 --> 00:27:27,379
+but is afraid of how their family
+and friends will react?"
+
+367
+00:27:27,445 --> 00:27:32,484
+What I did is, I would do drag
+in the middle of the night in my bedroom.
+
+368
+00:27:32,550 --> 00:27:37,522
+Eventually, I went out, snuck around,
+just do it in secret until it became okay
+
+369
+00:27:37,589 --> 00:27:41,126
+and I became comfortable to do it
+and be proud of it.
+
+370
+00:27:41,192 --> 00:27:44,863
+-Oh, that's good advice.
+-Absolutely. I think that's wonderful.
+
+371
+00:27:45,530 --> 00:27:47,532
+Thank you, Gia.
+Do we have another question?
+
+372
+00:27:47,599 --> 00:27:50,301
+-Hi.
+-Hi, Mimi.
+
+373
+00:27:50,368 --> 00:27:53,204
+{\an8}Okay, Violet Chachki,
+
+374
+00:27:53,271 --> 00:27:58,777
+{\an8}you were voted
+the shadiest queen by the other girls.
+
+375
+00:27:58,843 --> 00:28:05,717
+Chris from San Diego wants to know:
+"Who did you vote for and why?"
+
+376
+00:28:05,784 --> 00:28:08,420
+I think I voted for myself, actually.
+
+377
+00:28:09,721 --> 00:28:11,423
+I'm honest.
+
+378
+00:28:11,990 --> 00:28:17,595
+If you can't hate yourself, how the hell
+are you going to hate somebody else?
+
+379
+00:28:20,265 --> 00:28:24,202
+There you have it. It's time to hear
+from some of your biggest supporters.
+
+380
+00:28:24,269 --> 00:28:27,305
+-Let's take a look.
+-I'm Team Violet because she is sickening.
+
+381
+00:28:27,372 --> 00:28:28,973
+Team Violet for the win!
+
+382
+00:28:29,040 --> 00:28:33,545
+Yes, bitch! Fuck it up!
+Slay! Come through!
+
+383
+00:28:33,611 --> 00:28:35,280
+<i>Hi, Violet, mom here.</i>
+
+384
+00:28:35,346 --> 00:28:38,683
+I just wanted to say congratulations
+for making it to the finals.
+
+385
+00:28:38,750 --> 00:28:43,588
+I am so proud
+of the way you have handled yourself.
+
+386
+00:28:43,655 --> 00:28:45,824
+We wanted to let you know
+how proud we are.
+
+387
+00:28:45,890 --> 00:28:48,126
+We never doubted
+you'd make it to the finals.
+
+388
+00:28:48,193 --> 00:28:51,463
+Now the world knows it too.
+We're proud to be your friends.
+
+389
+00:28:51,529 --> 00:28:54,332
+-Now make them bitches eat it.
+-We love you.
+
+390
+00:28:54,399 --> 00:28:58,803
+Hi, Violet, your dad here. I would like
+to wish you all the success in the world.
+
+391
+00:28:58,870 --> 00:29:03,641
+I am proud of the level of accomplishment
+you've achieved doing what you love to do.
+
+392
+00:29:03,708 --> 00:29:08,379
+I hope to see you go all the way
+to the top. Good luck. We love you.
+
+393
+00:29:11,249 --> 00:29:13,118
+{\an8}Your mother, Alex, is here.
+
+394
+00:29:13,184 --> 00:29:19,624
+{\an8}What advice do you have for parents
+with children as flamboyant as Violet?
+
+395
+00:29:19,691 --> 00:29:23,294
+As a parent, you have to let them
+be their own person.
+
+396
+00:29:23,361 --> 00:29:25,864
+-That's all you can do.
+-[RuPaul] Right.
+
+397
+00:29:28,399 --> 00:29:30,702
+That's good advice. Thanks, Alex.
+
+398
+00:29:30,769 --> 00:29:35,406
+Now, Violet, what would it mean to you
+to become America's next drag superstar?
+
+399
+00:29:35,473 --> 00:29:38,943
+It would mean everything.
+This is it. This is what I love to do.
+
+400
+00:29:39,010 --> 00:29:44,282
+I have such a passion for it.
+It gives me life. It's everything to me.
+
+401
+00:29:44,349 --> 00:29:48,586
+It brings me so much happiness and joy.
+In whatever mood I'm in,
+
+402
+00:29:48,653 --> 00:29:54,092
+I can watch a bitch like Kennedy twirl
+and just get so happy watching it.
+
+403
+00:29:54,159 --> 00:29:59,030
+It moves me. I love it so much.
+And it would mean the world to me.
+
+404
+00:29:59,964 --> 00:30:04,302
+Well, Violet Chachki, you are not
+just a one-of-a-kind collectible.
+
+405
+00:30:04,369 --> 00:30:07,105
+You are a treasure.
+Ladies and gentlemen, Violet Chachki.
+
+406
+00:30:14,712 --> 00:30:17,816
+Welcome back to the grand finale
+of <i>RuPaul's Drag Race</i>.
+
+407
+00:30:17,882 --> 00:30:20,819
+Now, while the top three
+are backstage getting ready,
+
+408
+00:30:20,885 --> 00:30:25,590
+it's time to catch up with the queens
+that made this season sickening.
+
+409
+00:30:25,657 --> 00:30:32,630
+Starting with a drag dad, a code cracker,
+a corn popper, and a very married lady.
+
+410
+00:30:33,464 --> 00:30:35,200
+{\an8}Mama's home. Ah!
+
+411
+00:30:36,167 --> 00:30:37,235
+{\an8}[laughter]
+
+412
+00:30:37,302 --> 00:30:42,740
+{\an8}My drag style is influenced
+by campy and kitschy people of the world.
+
+413
+00:30:42,807 --> 00:30:44,843
+[Kandy] So how old are you?
+
+414
+00:30:46,144 --> 00:30:49,514
+-Oh! How old am I? Really?
+-How old?
+
+415
+00:30:49,581 --> 00:30:53,351
+{\an8}I'm Sasha Belle.
+Say hello to my little friends!
+
+416
+00:30:53,418 --> 00:30:57,422
+{\an8}<i>I can tell you every episode,</i>
+<i>what the challenge was, who went home.</i>
+
+417
+00:30:57,488 --> 00:30:58,990
+I've cracked the code.
+
+418
+00:30:59,057 --> 00:31:01,426
+<i>We'll never pick up</i>
+<i>hot men looking like this.</i>
+
+419
+00:31:01,492 --> 00:31:04,863
+<i>I'm the next drag superstar</i>
+<i>because I've done my homework.</i>
+
+420
+00:31:04,929 --> 00:31:06,898
+{\an8}-We made it, bitches!
+-Yes!
+
+421
+00:31:06,965 --> 00:31:09,467
+{\an8}<i>Jasmine is class and elegance.</i>
+
+422
+00:31:09,534 --> 00:31:13,404
+{\an8}I am here. H-E-R-E, bitch. I'm here.
+
+423
+00:31:13,471 --> 00:31:15,106
+Where did you get a loaf of bread?
+
+424
+00:31:16,641 --> 00:31:19,143
+[Jasmine] <i>No tea, no shade,</i>
+<i>no pink lemonade.</i>
+
+425
+00:31:19,210 --> 00:31:20,178
+Ding!
+
+426
+00:31:20,245 --> 00:31:23,248
+{\an8}Hi, my honeys. I'm home.
+
+427
+00:31:23,915 --> 00:31:26,751
+{\an8}My name is Mrs. Kasha Davis.
+
+428
+00:31:27,185 --> 00:31:30,255
+-[RuPaul] Is that Joan Rivers?
+-What are you wearing?
+
+429
+00:31:30,321 --> 00:31:33,157
+[Kasha] <i>Anybody can be a girl,</i>
+<i>but it takes balls to be a lady.</i>
+
+430
+00:31:34,259 --> 00:31:36,694
+There's always time for a cocktail.
+
+431
+00:31:39,364 --> 00:31:46,170
+Tempest DuJour, Kandy Ho accused you
+of being too old. How did you feel?
+
+432
+00:31:46,671 --> 00:31:50,141
+Well, it never feels good,
+but Kandy and I are friends.
+
+433
+00:31:50,208 --> 00:31:53,778
+I wish that, you know, at my age,
+she looks half as fabulous as I do.
+
+434
+00:31:53,845 --> 00:31:57,248
+I'm sorry for calling you old.
+
+435
+00:31:57,315 --> 00:31:59,517
+-Apology accepted.
+-My mom taught me better.
+
+436
+00:31:59,584 --> 00:32:02,153
+To be nice to old people.
+
+437
+00:32:04,622 --> 00:32:08,326
+-I love you, girl. I love you so much.
+-I love you, too, I really do.
+
+438
+00:32:09,827 --> 00:32:13,898
+You also have an eight-year-old
+and a five-year-old at home.
+
+439
+00:32:13,965 --> 00:32:15,466
+-Correct.
+-Did they watch?
+
+440
+00:32:15,533 --> 00:32:18,603
+They did.
+My daughter watched the first episode.
+
+441
+00:32:18,670 --> 00:32:20,138
+She cried when I got eliminated.
+
+442
+00:32:20,204 --> 00:32:23,574
+She said, "Papa, why doesn't
+RuPaul like you anymore?"
+
+443
+00:32:26,444 --> 00:32:31,316
+Mimi, if you're watching,
+RuPaul loves your daddy. Now, go to bed!
+
+444
+00:32:33,518 --> 00:32:35,653
+Next up, we've got Sasha Belle.
+
+445
+00:32:38,189 --> 00:32:43,227
+You arrived thinking that you had cracked
+the code. What happened?
+
+446
+00:32:44,829 --> 00:32:49,534
+I thought that I did crack the code.
+I thought I knew what you wanted,
+
+447
+00:32:49,600 --> 00:32:54,038
+but I think what makes the show so great
+is that it's so different every season.
+
+448
+00:32:54,105 --> 00:32:57,408
+-And I wasn't ready.
+-All right.
+
+449
+00:32:57,475 --> 00:33:02,213
+Now, back in Iowa, you host a night
+called "Sasha Belle's Drag Race,"
+
+450
+00:33:02,280 --> 00:33:04,449
+-is that right?
+-Yes, yes.
+
+451
+00:33:04,515 --> 00:33:07,919
+First of all, you'll be hearing
+from my lawyers.
+
+452
+00:33:10,021 --> 00:33:14,192
+And, second of all, how is that going?
+
+453
+00:33:17,628 --> 00:33:22,567
+It's going really good. We do it
+because I really fucking love this show.
+
+454
+00:33:22,633 --> 00:33:23,735
+I do.
+
+455
+00:33:23,801 --> 00:33:26,471
+If there was no grand prize,
+I would still play.
+
+456
+00:33:26,537 --> 00:33:28,773
+You keep ringing them bells.
+
+457
+00:33:28,840 --> 00:33:30,775
+All right. Thank you.
+
+458
+00:33:30,842 --> 00:33:34,846
+-Up next, Jasmine Masters.
+-Oh, my God.
+
+459
+00:33:37,382 --> 00:33:41,219
+What was your most exciting moment
+on the drag race?
+
+460
+00:33:41,285 --> 00:33:43,254
+-Meeting Kennedy.
+-Really?
+
+461
+00:33:43,321 --> 00:33:47,592
+Yeah. Because I have watched her
+at least nine years, ten years
+
+462
+00:33:47,658 --> 00:33:51,996
+on VCR tapes doing pageants
+and dancing and stuff.
+
+463
+00:33:52,063 --> 00:33:56,968
+And... I'm sorry if I snitch
+on your age, girl. Forgive me, girl.
+
+464
+00:33:59,203 --> 00:34:03,174
+-Jasmine, who inspired you to do drag?
+-Patti LaBelle.
+
+465
+00:34:03,241 --> 00:34:08,446
+She who she is when she on stage,
+when she off stage. She gives 1,000%.
+
+466
+00:34:08,513 --> 00:34:12,650
+-I just love her. She's everything to me.
+-Well, we have a surprise for you.
+
+467
+00:34:12,717 --> 00:34:14,385
+-Take a look.
+-What?
+
+468
+00:34:14,452 --> 00:34:18,356
+Hi, Jasmine.
+I love the way you stirred it up, honey.
+
+469
+00:34:18,756 --> 00:34:21,893
+Thank you for always looking
+like Patti LaBelle at my concerts.
+
+470
+00:34:21,959 --> 00:34:23,761
+I love you. Bye.
+
+471
+00:34:24,495 --> 00:34:26,597
+Are you serious, Ru?
+You did that for me?
+
+472
+00:34:28,433 --> 00:34:29,867
+[RuPaul] Yeah.
+
+473
+00:34:34,138 --> 00:34:35,973
+Yes. Yep.
+
+474
+00:34:36,674 --> 00:34:39,710
+Well, I felt like we needed
+to lift you up even more,
+
+475
+00:34:39,777 --> 00:34:43,214
+because on social media,
+people were very harsh to you.
+
+476
+00:34:43,281 --> 00:34:45,483
+-How did that make you feel?
+-When you...
+
+477
+00:34:46,551 --> 00:34:49,420
+...are getting so much negativity,
+it's like you can't breathe.
+
+478
+00:34:49,487 --> 00:34:52,924
+And it took me back to a friend of mine
+who had committed suicide
+
+479
+00:34:52,990 --> 00:34:55,560
+when they were bullied so much
+being young and gay.
+
+480
+00:34:55,626 --> 00:34:56,894
+Their parents put them out.
+
+481
+00:34:56,961 --> 00:34:59,497
+The straight and the gay world
+didn't accept them,
+
+482
+00:34:59,564 --> 00:35:04,735
+so they just ended it 'cause they didn't
+feel like they belong. That's how I felt.
+
+483
+00:35:04,802 --> 00:35:06,370
+-Well...
+-So it was hard,
+
+484
+00:35:06,437 --> 00:35:09,440
+but I just ate a lot of food
+and a lot of hot sauce, and...
+
+485
+00:35:12,977 --> 00:35:16,514
+[RuPaul] I'm glad you did get through it,
+and I'm glad you're here.
+
+486
+00:35:16,581 --> 00:35:22,386
+For seven years, our show has been one
+of the most popular ones on social media.
+
+487
+00:35:22,453 --> 00:35:27,258
+But recently, there's been a shift
+with more and more comments
+
+488
+00:35:27,325 --> 00:35:31,863
+having a darker tone.
+But like my mama always said,
+
+489
+00:35:31,929 --> 00:35:36,134
+"Unless them bitches is paying your bills,
+you pay them bitches no mind."
+
+490
+00:35:40,872 --> 00:35:47,345
+All right, next up, there's always time
+for a cocktail and Mrs. Kasha Davis.
+
+491
+00:35:48,880 --> 00:35:52,817
+During the competition, you had
+some issues with some of the younger kids.
+
+492
+00:35:52,884 --> 00:35:54,886
+What were they?
+
+493
+00:35:54,952 --> 00:35:59,023
+Some of the young gals on the show
+just had sort of a sense of entitlement.
+
+494
+00:35:59,090 --> 00:36:02,827
+It gets a little grating in that respect,
+where somebody, you know,
+
+495
+00:36:02,894 --> 00:36:05,329
+"I've been doing this
+for seven months. I will win."
+
+496
+00:36:05,396 --> 00:36:06,964
+And they might. So, um...
+
+497
+00:36:12,803 --> 00:36:15,072
+But I learned a lot from these girls.
+
+498
+00:36:15,139 --> 00:36:19,610
+Trixie taught me how to put
+way too much makeup on.
+
+499
+00:36:20,111 --> 00:36:24,215
+And I'm wearing
+two of Violet's corsets right here.
+
+500
+00:36:26,918 --> 00:36:31,022
+I've always wanted to ask you,
+is there really a Mr. Kasha Davis?
+
+501
+00:36:31,088 --> 00:36:33,357
+-There is.
+-[RuPaul] Where is he?
+
+502
+00:36:33,424 --> 00:36:35,793
+{\an8}-Right here in the...
+-[RuPaul] That's him?
+
+503
+00:36:35,860 --> 00:36:38,796
+{\an8}-[Kasha] That's Mr. Davis.
+-[RuPaul] Hi, Mr. Kasha Davis.
+
+504
+00:36:38,863 --> 00:36:40,665
+-He's cute.
+-He's cute.
+
+505
+00:36:40,731 --> 00:36:43,367
+Get ready, Mr. Davis,
+'cause mama's coming home.
+
+506
+00:36:48,172 --> 00:36:50,208
+♪ <i>Female phenomenon</i> ♪
+
+507
+00:36:50,274 --> 00:36:54,011
+Welcome back to the grand finale
+of <i>RuPaul's Drag Race</i>.
+
+508
+00:36:54,078 --> 00:36:59,617
+As our top three prepare backstage
+for the crowning of our next superstar,
+
+509
+00:36:59,684 --> 00:37:05,189
+these four queens are the perfect balance
+of sugar, spice, and everything nice.
+
+510
+00:37:05,256 --> 00:37:08,426
+Oh, and, um, chickens too. Take a look.
+
+511
+00:37:09,860 --> 00:37:14,365
+{\an8}I hope you girls got a sweet tooth, 
+because Kandy's in the fucking house.
+
+512
+00:37:14,432 --> 00:37:18,202
+{\an8}<i>Kandy is hot. Kandy is </i>candente<i>.</i>
+<i>If you touch her too close,</i>
+
+513
+00:37:18,269 --> 00:37:21,939
+you might get burned.
+I think this runway is right on my alley.
+
+514
+00:37:23,908 --> 00:37:26,177
+{\an8}Well, it's about time.
+
+515
+00:37:26,244 --> 00:37:29,447
+{\an8}<i>I do drag because I have the yearning</i>
+<i>for old Hollywood glamour.</i>
+
+516
+00:37:29,513 --> 00:37:31,582
+{\an8}<i>I'm a starlet on the rise.</i>
+
+517
+00:37:31,649 --> 00:37:33,684
+There's a man on the wing!
+
+518
+00:37:33,751 --> 00:37:36,687
+-Tramp!
+-You're the Meryl Streep of drag.
+
+519
+00:37:36,754 --> 00:37:38,823
+[Max] <i>It's all so surreal.</i>
+
+520
+00:37:38,889 --> 00:37:42,159
+{\an8}My name is Jaidynn Diore Fierce.
+How y'all doing?
+
+521
+00:37:42,226 --> 00:37:45,363
+{\an8}<i>Because I am what? Fierce.</i>
+
+522
+00:37:45,429 --> 00:37:47,198
+Work that puss.
+
+523
+00:37:47,265 --> 00:37:50,234
+I have not officially come out
+to my family yet.
+
+524
+00:37:50,301 --> 00:37:53,271
+I think it may change my relationship,
+
+525
+00:37:53,337 --> 00:37:54,772
+and that's what I'm scared of most.
+
+526
+00:37:56,374 --> 00:38:01,479
+{\an8}[Miss Fame] <i>My brand is runway shows,</i>
+<i>magazines, beyond-this-planet beautiful. </i>
+
+527
+00:38:01,545 --> 00:38:05,383
+Should I not talk about my feelings,
+or should I just keep moving on?
+
+528
+00:38:05,449 --> 00:38:07,385
+My God. I feel like I'm dating you.
+
+529
+00:38:07,451 --> 00:38:08,586
+How's your head?
+
+530
+00:38:08,653 --> 00:38:10,054
+How is your head?
+
+531
+00:38:10,121 --> 00:38:11,555
+How's your head?
+
+532
+00:38:12,256 --> 00:38:13,658
+Fine.
+
+533
+00:38:14,158 --> 00:38:16,494
+[clucking]
+
+534
+00:38:20,231 --> 00:38:21,799
+That's how I talk to chickens.
+
+535
+00:38:25,236 --> 00:38:30,308
+Kandy Ho, I hear that you are thinking
+about leaving Puerto Rico?
+
+536
+00:38:30,374 --> 00:38:32,109
+-I am.
+-<i>Escándalo</i>!
+
+537
+00:38:32,176 --> 00:38:33,311
+<i>Ay, sí.</i>
+
+538
+00:38:33,377 --> 00:38:36,747
+I love Puerto Rico,
+and I've been there since I was ten,
+
+539
+00:38:36,814 --> 00:38:38,349
+-but...
+-Where were you before?
+
+540
+00:38:38,416 --> 00:38:39,650
+Connecticut.
+
+541
+00:38:45,389 --> 00:38:46,824
+[Max] You're a liar!
+
+542
+00:38:47,725 --> 00:38:51,629
+-I guess I'm a fake Puerto Rican, right?
+-Okay, all right.
+
+543
+00:38:51,696 --> 00:38:56,200
+-What would you have done differently?
+-I wouldn't have painted on a beard.
+
+544
+00:38:56,267 --> 00:38:58,836
+I looked like a Neapolitan ice cream.
+
+545
+00:39:00,071 --> 00:39:03,307
+-Do you do your own makeup?
+-I started doing it
+
+546
+00:39:03,374 --> 00:39:06,010
+a month before auditioning for the show.
+
+547
+00:39:06,077 --> 00:39:10,014
+In Puerto Rico, we just go up
+to our fabulous makeup artists, like,
+
+548
+00:39:10,081 --> 00:39:13,384
+"Paint me and do my hair
+and dress me up, and I'm gone."
+
+549
+00:39:13,451 --> 00:39:16,087
+-Yeah.
+-It's, like, my mistake. Sorry.
+
+550
+00:39:16,153 --> 00:39:20,291
+Yeah. Kandy, my dear,
+you are one of my favorite hos, and...
+
+551
+00:39:21,325 --> 00:39:24,595
+That's saying a lot,
+because I know a lot of hos.
+
+552
+00:39:25,863 --> 00:39:30,234
+Next, the silver fox of season seven, Max.
+
+553
+00:39:31,335 --> 00:39:35,973
+Yes. Now, this season,
+when the queens were talking about sex,
+
+554
+00:39:36,040 --> 00:39:38,576
+you weren't having it at all.
+You were like...
+
+555
+00:39:38,642 --> 00:39:43,047
+Listen, these girls, they don't talk
+about anything else besides sex.
+
+556
+00:39:43,114 --> 00:39:45,383
+But I was tired of it. Just for a moment.
+
+557
+00:39:45,449 --> 00:39:46,384
+-Okay.
+-I'm not...
+
+558
+00:39:46,450 --> 00:39:48,953
+I'm not that big of a prude,
+honest to goodness.
+
+559
+00:39:50,187 --> 00:39:54,525
+You coached Jaidynn and Pearl
+through a few tense moments.
+
+560
+00:39:54,592 --> 00:39:55,726
+Tell us about that.
+
+561
+00:39:55,793 --> 00:39:59,230
+Well, Jaidynn is an actress.
+She is a performer.
+
+562
+00:39:59,296 --> 00:40:03,367
+For her to say, "I'm not," that was
+nerves, so we had to calm down.
+
+563
+00:40:03,434 --> 00:40:07,338
+Pearl had to calm down, we had to regroup,
+and then we had to go kill it.
+
+564
+00:40:07,405 --> 00:40:09,640
+-Yeah.
+-I love it. That's great.
+
+565
+00:40:09,707 --> 00:40:11,442
+That's great advice.
+
+566
+00:40:11,509 --> 00:40:16,213
+Well, Max, when it comes to my feelings
+for you, there are no gray areas.
+
+567
+00:40:16,947 --> 00:40:18,649
+Thank you.
+
+568
+00:40:21,685 --> 00:40:24,255
+Up next, Jaidynn Diore Fierce.
+
+569
+00:40:27,525 --> 00:40:30,661
+What surprised you the most
+about being on the show?
+
+570
+00:40:30,728 --> 00:40:35,166
+Um, well, I didn't think
+we were gonna be locked up so much.
+
+571
+00:40:35,232 --> 00:40:37,034
+-Child.
+-You're sequestered.
+
+572
+00:40:37,101 --> 00:40:41,439
+And that was... I was imagining myself
+going out to dinner with you, darling.
+
+573
+00:40:41,505 --> 00:40:44,074
+-Yeah.
+-I thought we'd go to Hollywood Boulevard.
+
+574
+00:40:44,141 --> 00:40:45,443
+Get some munchies,
+
+575
+00:40:45,509 --> 00:40:49,547
+some cauliflower, corn bread,
+green beans, a turkey.
+
+576
+00:40:49,613 --> 00:40:54,285
+And I wasn't able to do that.
+I was sitting in my hotel room,
+
+577
+00:40:54,351 --> 00:40:59,690
+-beating myself up and eating Doritos.
+-That's different from your normal life?
+
+578
+00:41:04,128 --> 00:41:08,632
+You revealed that your mother
+and your brother knew that you did drag.
+
+579
+00:41:08,699 --> 00:41:11,268
+-Yes.
+-But they didn't know that you're gay.
+
+580
+00:41:11,335 --> 00:41:12,369
+-Right.
+-And now?
+
+581
+00:41:12,436 --> 00:41:15,139
+-Where is that right now?
+-Well, I think it was...
+
+582
+00:41:15,206 --> 00:41:20,311
+she didn't want me to be that way.
+I don't think they understand,
+
+583
+00:41:20,377 --> 00:41:24,415
+-you know, fully, who a gay person is.
+-Well, that's funny,
+
+584
+00:41:24,482 --> 00:41:27,384
+because we have a little surprise for you.
+Take a look at this.
+
+585
+00:41:28,486 --> 00:41:30,688
+Surprise, surprise!
+
+586
+00:41:31,989 --> 00:41:37,828
+I didn't get a chance to talk to you.
+You had some concerns.
+
+587
+00:41:37,895 --> 00:41:44,034
+I've experienced rejection in my life,
+so it's very hard for me to reject mine,
+
+588
+00:41:44,101 --> 00:41:49,006
+because I know how hurtful
+and painful rejection is.
+
+589
+00:41:49,073 --> 00:41:52,009
+<i>You know, this is not a battle,</i>
+<i>it's just...</i>
+
+590
+00:41:52,343 --> 00:41:57,214
+one thing that we're just gonna learn
+to just go ahead and do what we do,
+
+591
+00:41:57,281 --> 00:41:59,216
+and that's love one another.
+
+592
+00:41:59,283 --> 00:42:05,022
+My love is not based on what you do.
+My love is based on who you are.
+
+593
+00:42:05,089 --> 00:42:08,859
+And you're my precious,
+handsome Christopher.
+
+594
+00:42:17,701 --> 00:42:19,637
+What are you feeling right now?
+
+595
+00:42:19,703 --> 00:42:24,909
+I feel like my family is now gonna be able
+to get to know who I really am,
+
+596
+00:42:24,975 --> 00:42:28,245
+after 26 years of my life.
+
+597
+00:42:30,014 --> 00:42:36,253
+If I don't get anything else, I got
+the peace and the freedom to be who I am
+
+598
+00:42:36,320 --> 00:42:38,989
+around my family, and to be happy.
+
+599
+00:42:40,057 --> 00:42:44,929
+<i>RuPaul's Drag Race</i>, still bringing
+families together. Hallelu.
+
+600
+00:42:46,263 --> 00:42:47,398
+All right.
+
+601
+00:42:48,165 --> 00:42:51,535
+Up next, Miss Fame, girl, hey.
+
+602
+00:42:51,602 --> 00:42:53,804
+Hi.
+
+603
+00:42:57,074 --> 00:43:00,978
+-By the way, how's your head?
+-Well, there have been a few complaints.
+
+604
+00:43:01,045 --> 00:43:02,680
+[Miss Fame] What?
+
+605
+00:43:04,381 --> 00:43:05,916
+You and Katya came clean
+
+606
+00:43:05,983 --> 00:43:07,418
+-about being sober.
+-Right.
+
+607
+00:43:07,484 --> 00:43:10,387
+-And what's the reaction been?
+-You know what,
+
+608
+00:43:10,454 --> 00:43:12,323
+I've had so many people write me
+
+609
+00:43:12,389 --> 00:43:16,026
+personal stories about how much time
+they had, how inspiring it was.
+
+610
+00:43:16,894 --> 00:43:20,764
+It's just a dream come true
+to be able to walk through
+
+611
+00:43:20,831 --> 00:43:24,068
+the obstacle of addiction
+and be able to...
+
+612
+00:43:25,002 --> 00:43:26,103
+live your life.
+
+613
+00:43:30,541 --> 00:43:36,780
+Miss Fame, all season long, you served
+fierce couture, gorgeous fashions,
+
+614
+00:43:36,847 --> 00:43:39,683
+and people only want
+to talk to you about chickens.
+
+615
+00:43:39,750 --> 00:43:42,186
+I'm not mad about it.
+At least they're talking to me.
+
+616
+00:43:42,252 --> 00:43:43,287
+[RuPaul] Yeah.
+
+617
+00:43:43,354 --> 00:43:46,056
+I grew up on a farm
+with the chickens, so...
+
+618
+00:43:46,123 --> 00:43:47,992
+Can you talk a little chicken?
+
+619
+00:43:48,058 --> 00:43:51,195
+-Can you do that?
+-I can, but I think it's best I have...
+
+620
+00:43:51,261 --> 00:43:54,298
+a special guest come out
+to help me do that.
+
+621
+00:43:54,365 --> 00:43:56,600
+-Is Colonel Sanders here?
+-Hold on one moment.
+
+622
+00:43:57,735 --> 00:44:01,005
+Colonel Sanders? I thought he was dead.
+
+623
+00:44:04,375 --> 00:44:07,411
+-Oh, my God, you fucking bitch!
+-Gorgeous!
+
+624
+00:44:07,478 --> 00:44:09,947
+She's got bigger hair than me tonight.
+
+625
+00:44:10,014 --> 00:44:13,851
+-Do you do tricks with it?
+-I'm afraid of it shitting on my couture.
+
+626
+00:44:13,917 --> 00:44:15,252
+Oh, dear.
+
+627
+00:44:16,720 --> 00:44:21,592
+Miss Fame, whether in fashion or poultry,
+you have a bright future ahead of you.
+
+628
+00:44:21,659 --> 00:44:24,895
+-Just don't cluck it up, okay?
+-I promise I won't!
+
+629
+00:44:24,962 --> 00:44:25,896
+[RuPaul] Okay.
+
+630
+00:44:29,800 --> 00:44:32,970
+Welcome back to the grand finale
+of <i>RuPaul's Drag Race</i>.
+
+631
+00:44:33,037 --> 00:44:38,542
+We are moments away from finding out
+if Ginger, Pearl or Violet Chachki
+
+632
+00:44:38,609 --> 00:44:41,378
+will be crowned
+America's next drag superstar.
+
+633
+00:44:41,445 --> 00:44:44,081
+But first, some fierce contenders
+
+634
+00:44:44,148 --> 00:44:49,019
+that gave our top three a real run
+for their money. Let's take a look.
+
+635
+00:44:50,154 --> 00:44:51,755
+{\an8}This isn't Maury Povich.
+
+636
+00:44:52,389 --> 00:44:54,458
+{\an8}<i>Drag queens say,</i>
+<i>"Paint for the back row."</i>
+
+637
+00:44:54,525 --> 00:44:56,827
+I paint for the check-cashing place
+down the street.
+
+638
+00:44:56,894 --> 00:45:00,931
+If you're gonna be the comedy queen,
+you gotta go all the way.
+
+639
+00:45:00,998 --> 00:45:03,233
+You right, girl, you right.
+
+640
+00:45:03,934 --> 00:45:06,804
+<i>I'm back. Good evening,</i>
+<i>distinguished panel of judges.</i>
+
+641
+00:45:06,870 --> 00:45:08,739
+Sashay away.
+
+642
+00:45:08,806 --> 00:45:11,141
+All right, public school. Calm down.
+
+643
+00:45:11,208 --> 00:45:13,143
+{\an8}[speaking Russian]
+
+644
+00:45:13,210 --> 00:45:17,848
+{\an8}<i>I'm just your average, run-of-the-mill,</i>
+<i>Russian bisexual transvestite hooker.</i>
+
+645
+00:45:19,983 --> 00:45:22,953
+♪ <i>Feel the heat on my sizzling meat</i> ♪
+
+646
+00:45:23,020 --> 00:45:26,790
+I'm not going anywhere.
+Ru and I are great friends.
+
+647
+00:45:26,857 --> 00:45:29,159
+-Miss Fame did our makeup.
+-[Michelle] Ah!
+
+648
+00:45:29,893 --> 00:45:31,995
+{\an8}When do I get to blow them?
+
+649
+00:45:32,062 --> 00:45:35,065
+{\an8}-I can't say that either?
+-[laughter]
+
+650
+00:45:35,132 --> 00:45:36,467
+{\an8}Well, hello.
+
+651
+00:45:36,533 --> 00:45:43,240
+{\an8}<i>I'm Kennedy Davenport. I spin, I flip,</i>
+<i>I jump off the stage in six-inch heels.</i>
+
+652
+00:45:43,741 --> 00:45:48,112
+-Kennedy, did you rehearse your team?
+-That was a rough spot.
+
+653
+00:45:48,178 --> 00:45:49,646
+Next. Whoo!
+
+654
+00:45:50,581 --> 00:45:54,351
+-[Ross] Kennedy...
+-[Ross and Kathy singing] Davenport!
+
+655
+00:45:54,418 --> 00:45:55,419
+Shut up!
+
+656
+00:45:55,486 --> 00:45:59,723
+[RuPaul] <i>Newark, LaGuardia,</i>
+<i>Kennedy Davenport.</i>
+
+657
+00:45:59,790 --> 00:46:01,458
+Ain't nobody got time for that.
+
+658
+00:46:03,861 --> 00:46:05,763
+-So, Trixie Mattel.
+-Hi, Ru.
+
+659
+00:46:05,829 --> 00:46:11,135
+When you first left, the internet
+went cray cray. What was that like?
+
+660
+00:46:11,201 --> 00:46:15,172
+I felt very supported and loved.
+I felt like less of a loser.
+
+661
+00:46:15,239 --> 00:46:18,942
+-Well, losing is the new winning.
+-Yes!
+
+662
+00:46:19,009 --> 00:46:21,211
+What's your life been like
+since <i>Drag Race</i>?
+
+663
+00:46:21,278 --> 00:46:22,045
+Oh, my gosh.
+
+664
+00:46:22,112 --> 00:46:25,349
+If I never get a chance again,
+I have to thank you, because...
+
+665
+00:46:26,350 --> 00:46:30,287
+you reached into my little blond,
+pink life and changed it so much.
+
+666
+00:46:30,354 --> 00:46:31,655
+[cheers and applause]
+
+667
+00:46:35,626 --> 00:46:37,461
+I'm glad you got to experience this.
+
+668
+00:46:37,528 --> 00:46:41,064
+Now, I hear you do
+a mean RuPaul impersonation.
+
+669
+00:46:41,131 --> 00:46:42,266
+I could never.
+
+670
+00:46:44,768 --> 00:46:46,136
+-Let me hear it.
+-Okay.
+
+671
+00:46:46,203 --> 00:46:49,973
+-Yeah.
+-Trixie, on the runway you're a doll,
+
+672
+00:46:50,040 --> 00:46:53,510
+but your comedy seems manufactured.
+
+673
+00:46:58,048 --> 00:46:59,583
+-Are you mad?
+-Sashay away.
+
+674
+00:47:02,085 --> 00:47:05,088
+Three times! Three times!
+
+675
+00:47:06,990 --> 00:47:09,459
+Next up, Katya!
+
+676
+00:47:17,267 --> 00:47:22,506
+Katya, all season long, you were
+plagued with doubt. What was going on?
+
+677
+00:47:22,573 --> 00:47:26,343
+-I was terrified the whole fucking time.
+-Really?
+
+678
+00:47:26,410 --> 00:47:31,215
+RuPaul, you are sitting there, I see you,
+
+679
+00:47:31,281 --> 00:47:35,252
+-but I want to tackle you to the ground.
+-Uh-huh. Yeah?
+
+680
+00:47:35,319 --> 00:47:37,955
+I want to stuff your entire wig
+inside my mouth...
+
+681
+00:47:38,021 --> 00:47:39,256
+[RuPaul] Okay, yeah.
+
+682
+00:47:39,323 --> 00:47:42,025
+-And I want you to pee on me.
+-Okay.
+
+683
+00:47:43,160 --> 00:47:45,596
+-Yeah.
+-And listen.
+
+684
+00:47:45,662 --> 00:47:48,332
+The first time you came over
+to me, I was, like,
+
+685
+00:47:48,398 --> 00:47:50,133
+waiting my whole life for this.
+
+686
+00:47:50,200 --> 00:47:51,802
+-Sure.
+-And... I don't know.
+
+687
+00:47:51,869 --> 00:47:56,173
+There's something in my brain
+that said, "She wants to kill you."
+
+688
+00:47:56,840 --> 00:48:01,144
+And I... I know you don't want to...
+I mean, I'm 98% sure at least.
+
+689
+00:48:01,211 --> 00:48:03,680
+Oh, no, I did want to kill you.
+
+690
+00:48:04,248 --> 00:48:07,017
+And then I just couldn't...
+I don't know.
+
+691
+00:48:07,084 --> 00:48:08,652
+But now, having seen the show,
+
+692
+00:48:08,719 --> 00:48:13,123
+do you see that it's unfounded,
+that you have no reason to doubt yourself?
+
+693
+00:48:13,190 --> 00:48:14,524
+Do you you were fabulous?
+
+694
+00:48:14,591 --> 00:48:17,995
+Watching the show has given me...
+some self-esteem.
+
+695
+00:48:22,599 --> 00:48:25,335
+So thank you so much, Ru.
+
+696
+00:48:25,402 --> 00:48:29,039
+Katya, you are a freak. And...
+
+697
+00:48:29,473 --> 00:48:33,477
+-I freaking love you.
+-Oh, my God.
+
+698
+00:48:35,712 --> 00:48:37,114
+[cheers and laughter]
+
+699
+00:48:37,648 --> 00:48:42,819
+All right, up next,
+LaGuardia, Newark, Kennedy.
+
+700
+00:48:46,790 --> 00:48:50,327
+Now, Kennedy, when I started
+saying that, I had no idea
+
+701
+00:48:50,394 --> 00:48:54,965
+that you would actually
+fly off the main stage.
+
+702
+00:48:55,032 --> 00:49:00,370
+-Have you ever hurt between me down there?
+-No, I mean, I'm a trained dancer.
+
+703
+00:49:00,437 --> 00:49:02,606
+-You mean "dahn-cer."
+-"Dahn-sah."
+
+704
+00:49:02,673 --> 00:49:03,774
+[RuPaul] Yes.
+
+705
+00:49:03,840 --> 00:49:08,178
+So I did the necessary things to stretch,
+to make sure that did not happen.
+
+706
+00:49:08,245 --> 00:49:11,381
+But there's more down there
+that could get hurt.
+
+707
+00:49:11,448 --> 00:49:13,350
+Yeah, way more than Katya.
+
+708
+00:49:18,789 --> 00:49:20,324
+-It's true.
+-Yeah.
+
+709
+00:49:20,390 --> 00:49:21,558
+[RuPaul] Yeah.
+
+710
+00:49:22,025 --> 00:49:25,262
+Throughout the season,
+we joked about "the struggle is real."
+
+711
+00:49:25,329 --> 00:49:26,897
+It became one of your tag lines,
+
+712
+00:49:26,964 --> 00:49:30,701
+but in your family, in your background,
+that's a reality.
+
+713
+00:49:30,767 --> 00:49:36,073
+I know that you recently reunited
+with your mother after a long separation.
+
+714
+00:49:36,139 --> 00:49:42,012
+My mother's been in and out.
+My dad got custody when I was two,
+
+715
+00:49:42,079 --> 00:49:46,283
+and my sister was two months.
+And she would make me mad
+
+716
+00:49:46,350 --> 00:49:50,253
+because she said she'd come,
+and she never did, and she was in and out.
+
+717
+00:49:50,320 --> 00:49:53,690
+-She was on her own journey.
+-But she's here tonight with you,
+
+718
+00:49:53,757 --> 00:49:54,691
+-right?
+-Yeah.
+
+719
+00:49:54,758 --> 00:49:59,062
+{\an8}[RuPaul] Chicory, are you there?
+Is that Chicky right there? I love it.
+
+720
+00:49:59,129 --> 00:50:01,331
+{\an8}-Hey, Mama Chicory.
+-Hi.
+
+721
+00:50:01,398 --> 00:50:05,068
+I am so glad you are here with us tonight.
+Give her a big round of applause.
+
+722
+00:50:09,373 --> 00:50:13,543
+And on another note,
+if you ever have the chance to get out
+
+723
+00:50:13,610 --> 00:50:17,914
+and see Miss Kennedy Davenport in concert,
+
+724
+00:50:17,981 --> 00:50:22,819
+live, it will give you life. Trust. Yes.
+
+725
+00:50:22,886 --> 00:50:25,822
+-Yes, it's true.
+-Thank you.
+
+726
+00:50:25,889 --> 00:50:29,626
+{\an8}Now it's time
+for viewer questions. Who's first?
+
+727
+00:50:29,693 --> 00:50:34,498
+{\an8}-Hi! I have a question for Trixie...
+-[RuPaul] Uh-huh.
+
+728
+00:50:34,931 --> 00:50:37,034
+{\an8}-From Sarah.
+-Yeah.
+
+729
+00:50:37,100 --> 00:50:41,104
+"You and Max knew each other in college.
+
+730
+00:50:41,171 --> 00:50:45,075
+Did Max speak
+with that fake-ass British accent then?"
+
+731
+00:50:45,142 --> 00:50:47,811
+[crowd hooting and cheering]
+
+732
+00:50:52,149 --> 00:50:55,285
+I don't think so, but I've never been
+to that area of Wisconsin.
+
+733
+00:50:55,352 --> 00:50:57,521
+-Maybe they talk that way.
+-Yeah, that's true.
+
+734
+00:50:57,587 --> 00:51:01,892
+It's just an elocution thing, a diction
+and an elocution thing, not an accent.
+
+735
+00:51:01,958 --> 00:51:06,263
+-What'd she say?
+-She says it's elocution, not an accent.
+
+736
+00:51:06,329 --> 00:51:07,998
+-"Alacutia"?
+-Uh-huh.
+
+737
+00:51:09,332 --> 00:51:11,168
+[RuPaul] Yeah.
+
+738
+00:51:11,234 --> 00:51:13,503
+-Is she from Inglewood?
+-[RuPaul] Yes.
+
+739
+00:51:13,570 --> 00:51:16,807
+-I know her. I know her.
+-I went to high school with her.
+
+740
+00:51:16,873 --> 00:51:18,275
+Yeah.
+
+741
+00:51:20,143 --> 00:51:26,083
+{\an8}-Well, Delta Work, you better work.
+-I have a question from Amy in Boston.
+
+742
+00:51:26,149 --> 00:51:31,555
+"If there's an <i>All-Stars Two</i>, which queen
+from season seven deserves to compete?"
+
+743
+00:51:31,621 --> 00:51:37,360
+Kennedy, who would you condone?
+Nominate. Who would you nominate?
+
+744
+00:51:41,798 --> 00:51:45,836
+To be honest and to answer the question,
+I really would choose Katya.
+
+745
+00:51:51,007 --> 00:51:54,978
+So you guys know something
+about <i>All-Stars Two</i> that I don't.
+
+746
+00:51:58,248 --> 00:52:00,083
+Well, thank you, ladies.
+
+747
+00:52:00,150 --> 00:52:04,855
+Now it's time to announce the winner
+of this year's Miss Congeniality.
+
+748
+00:52:04,921 --> 00:52:08,992
+Give it up for last year's winner,
+Ben DeLaCreme.
+
+749
+00:52:09,059 --> 00:52:13,063
+♪ <i>Raise your glass, let's make a toast</i> ♪
+
+750
+00:52:13,630 --> 00:52:18,034
+♪ <i>Friends forever, solid gold</i> ♪
+
+751
+00:52:18,969 --> 00:52:23,373
+♪ <i>Back together like it was before</i>
+<i>Stronger than ever, there ain't no more</i> ♪
+
+752
+00:52:23,440 --> 00:52:28,912
+♪ <i>Just say, eh</i>
+<i>So let the music play</i> ♪
+
+753
+00:52:28,979 --> 00:52:34,351
+Well, Ru, we're here to announce
+this year's breast in... Best in Show.
+
+754
+00:52:34,417 --> 00:52:40,790
+Sorry. Actually, it's the award
+for season seven's Miss Congeniality.
+
+755
+00:52:40,857 --> 00:52:44,261
+I dropped the envelope out of my bosoms.
+Michelle, would you join me?
+
+756
+00:52:44,327 --> 00:52:45,929
+Great, thank you.
+
+757
+00:52:47,230 --> 00:52:49,099
+Thank you so much.
+
+758
+00:52:52,169 --> 00:52:54,804
+The winner of season seven's
+Miss Congeniality
+
+759
+00:52:54,871 --> 00:52:58,842
+and a cash prize of $5,000,
+
+760
+00:52:58,909 --> 00:53:02,179
+courtesy of Logo.... I know, right? Is...
+
+761
+00:53:03,980 --> 00:53:05,448
+Katya!
+
+762
+00:53:20,063 --> 00:53:22,933
+Condragulations.
+Is there anything you'd like to say?
+
+763
+00:53:22,999 --> 00:53:25,569
+[speaking Russian]
+
+764
+00:53:26,570 --> 00:53:31,908
+Now, thanks to all of you for voting,
+ladies and gentlemen. Walk the runway.
+
+765
+00:53:32,375 --> 00:53:35,178
+[electronic music playing]
+
+766
+00:53:38,548 --> 00:53:41,918
+Welcome back to the grand finale
+of <i>RuPaul's Drag Race</i>.
+
+767
+00:53:41,985 --> 00:53:45,622
+Are y'all ready to crown
+America's next drag superstar?
+
+768
+00:53:46,957 --> 00:53:52,095
+Good. Please help me welcome back
+to the stage your top three queens.
+
+769
+00:53:53,096 --> 00:53:54,397
+Ginger Minj!
+
+770
+00:53:56,433 --> 00:53:57,901
+♪ <i>I'm telling the truth now</i> ♪
+
+771
+00:53:57,968 --> 00:53:59,669
+[RuPaul] Pearl!
+
+772
+00:53:59,736 --> 00:54:02,872
+♪ <i>I'm telling the truth now</i> ♪
+
+773
+00:54:02,939 --> 00:54:05,609
+[RuPaul] Violet Chachki!
+
+774
+00:54:05,675 --> 00:54:09,946
+♪ <i>Who, who, who do you think you</i> ♪
+
+775
+00:54:10,013 --> 00:54:12,849
+♪ <i>We're all born naked</i>
+<i>And the rest is drag</i> ♪
+
+776
+00:54:13,550 --> 00:54:15,719
+Looking good, ladies.
+
+777
+00:54:15,785 --> 00:54:20,123
+There are only six people on Earth
+who know what it feels like to be crowned
+
+778
+00:54:20,190 --> 00:54:24,995
+America's next drag superstar.
+Please help me welcome
+
+779
+00:54:25,061 --> 00:54:28,665
+your reigning queen, Bianca Del Rio!
+
+780
+00:54:30,267 --> 00:54:33,903
+♪ <i>You're a champion</i>
+<i>Greatest of them all</i> ♪
+
+781
+00:54:33,970 --> 00:54:37,941
+♪ <i>You're a champion, never gonna fall</i> ♪
+
+782
+00:54:38,008 --> 00:54:41,811
+♪ <i>You're a champion</i>
+<i>Still standing tall</i> ♪
+
+783
+00:54:41,878 --> 00:54:46,583
+♪ <i>You're a champion</i>
+<i>And you'll always be a hero</i> ♪
+
+784
+00:54:47,917 --> 00:54:49,352
+[RuPaul] Wow.
+
+785
+00:54:50,287 --> 00:54:51,488
+Wow!
+
+786
+00:54:51,554 --> 00:54:53,657
+[RuPaul laughs]
+
+787
+00:54:54,658 --> 00:54:57,761
+Bianca Del Rio, my queen. How are you?
+
+788
+00:54:57,827 --> 00:55:01,698
+I'm good. I'm like the Tin Man.
+I don't have a heart. But I'm good!
+
+789
+00:55:01,765 --> 00:55:04,701
+I want to know, what has
+this past year been like for you?
+
+790
+00:55:04,768 --> 00:55:08,204
+It's been absolutely unreal.
+I've had this amazing journey.
+
+791
+00:55:08,271 --> 00:55:12,542
+I've been able to travel the world,
+spread my hate, do my thing, I...
+
+792
+00:55:12,609 --> 00:55:16,546
+No, truly, I've been in Australia,
+London, Amsterdam, Akron, Ohio.
+
+793
+00:55:16,613 --> 00:55:20,250
+Places I never expected to visit.
+It's been unreal and amazing.
+
+794
+00:55:20,317 --> 00:55:26,056
+I have to say that the opportunity
+this lady has given me changed my life.
+
+795
+00:55:26,122 --> 00:55:29,426
+Therefore, I cannot thank you enough.
+It's been amazing.
+
+796
+00:55:29,492 --> 00:55:34,030
+-So respect it.
+-Thank you, Bianca.
+
+797
+00:55:38,234 --> 00:55:41,771
+In addition to the title
+of America's next drag superstar,
+
+798
+00:55:41,838 --> 00:55:44,040
+the winner will walk away with a crown
+
+799
+00:55:44,107 --> 00:55:47,811
+and scepter provided
+by Fierce! Drag Jewels
+
+800
+00:55:47,877 --> 00:55:52,282
+and a sickening supply of makeup
+from Anastasia Beverly Hills
+
+801
+00:55:52,349 --> 00:55:57,487
+-and a cash prize of $100,000.
+-[cheers and applause]
+
+802
+00:56:02,225 --> 00:56:03,760
+Now,
+
+803
+00:56:05,128 --> 00:56:08,665
+the time has come to crown our queen.
+
+804
+00:56:11,768 --> 00:56:16,039
+As always, I've consulted
+with the judges and the fans,
+
+805
+00:56:16,106 --> 00:56:19,342
+but the final decision is mine to make.
+
+806
+00:56:19,409 --> 00:56:20,877
+Ginger Minj.
+
+807
+00:56:20,944 --> 00:56:22,345
+[cheers and applause]
+
+808
+00:56:22,412 --> 00:56:23,346
+Pearl.
+
+809
+00:56:23,413 --> 00:56:25,315
+[cheers and applause]
+
+810
+00:56:25,382 --> 00:56:27,050
+Violet Chachki.
+
+811
+00:56:27,117 --> 00:56:28,685
+[cheers and applause]
+
+812
+00:56:28,752 --> 00:56:34,891
+The winner of <i>RuPaul's Drag Race</i>
+and America's next drag superstar is...
+
+813
+00:56:39,162 --> 00:56:40,397
+[coughs]
+
+814
+00:56:41,331 --> 00:56:42,699
+Katya?
+
+815
+00:56:44,934 --> 00:56:46,503
+Would you please step forward?
+
+816
+00:56:54,744 --> 00:56:56,112
+Katya.
+
+817
+00:57:00,683 --> 00:57:02,385
+May I please have a sip of water?
+
+818
+00:57:03,019 --> 00:57:04,421
+[laughter]
+
+819
+00:57:08,758 --> 00:57:10,960
+[cheers and applause]
+
+820
+00:57:13,196 --> 00:57:17,267
+-Yes!
+-You fucking bitch.
+
+821
+00:57:21,037 --> 00:57:23,773
+Where were we? Oh, of course.
+
+822
+00:57:24,674 --> 00:57:27,844
+The time has come to crown our queen.
+
+823
+00:57:29,612 --> 00:57:31,114
+The winner...
+
+824
+00:57:31,181 --> 00:57:32,415
+of <i>RuPaul's Drag Race</i>...
+
+825
+00:57:34,484 --> 00:57:38,221
+and America's next drag superstar...
+
+826
+00:57:39,689 --> 00:57:41,124
+is...
+
+827
+00:57:44,561 --> 00:57:45,528
+Violet Chachki.
+
+828
+00:57:45,595 --> 00:57:46,996
+[cheering]
+
+829
+00:57:49,432 --> 00:57:53,436
+♪ <i>If I dream all the possibilities</i> ♪
+
+830
+00:57:53,503 --> 00:57:56,039
+♪ <i>If you just believe</i>
+<i>In your wildest dreams</i> ♪
+
+831
+00:57:56,105 --> 00:57:58,975
+Congratulations.
+
+832
+00:57:59,042 --> 00:58:01,044
+Thank you.
+
+833
+00:58:01,110 --> 00:58:04,881
+♪ <i>If I dream everything I wanna be </i>♪
+
+834
+00:58:04,948 --> 00:58:08,885
+♪ <i>If you just believe</i>
+<i>In your wildest dreams</i> ♪
+
+835
+00:58:08,952 --> 00:58:12,455
+Is there anything you'd like to say?
+
+836
+00:58:14,190 --> 00:58:15,758
+Come through!
+
+837
+00:58:15,825 --> 00:58:19,195
+♪ <i>If I dream everything I wanna be</i> ♪
+
+838
+00:58:19,262 --> 00:58:23,099
+Now, prance, my queen. Prance.
+
+839
+00:58:23,166 --> 00:58:28,471
+♪ <i>If you believe in your wildest dreams</i>
+<i>They will come true</i> ♪
+
+840
+00:58:28,538 --> 00:58:31,508
+♪ <i>They will come true</i> ♪
+
+841
+00:58:34,143 --> 00:58:39,215
+♪ <i>I set my sights</i>
+<i>On a shooting star, traveling</i> ♪
+
+842
+00:58:39,282 --> 00:58:43,453
+Condragulations. Wonderful.
+
+843
+00:58:43,520 --> 00:58:46,122
+♪ <i>In my heart</i> ♪
+
+844
+00:58:46,189 --> 00:58:48,892
+Remember, if you can't love yourself,
+
+845
+00:58:48,958 --> 00:58:50,860
+how in the hell are you going
+to love somebody else?
+
+846
+00:58:50,927 --> 00:58:52,228
+Can I get an amen in here?
+
+847
+00:58:52,295 --> 00:58:54,063
+{\an8}-[all] Amen.
+-[RuPaul] All right.
+
+848
+00:58:54,130 --> 00:58:56,099
+{\an8}Good night, everybody.
+
+849
+00:58:56,165 --> 00:58:59,969
+{\an8}♪ <i>If I dream everything I want to be</i> ♪
+
+850
+00:59:00,036 --> 00:59:03,773
+{\an8}♪ <i>If I dream all the possibilities</i> ♪
+
+851
+00:59:03,840 --> 00:59:06,843
+{\an8}♪ <i>If you just believe</i>
+<i>In your wildest dreams</i> ♪
+
+852
+00:59:06,910 --> 00:59:08,378
+{\an8}♪ <i>They will come true</i> ♪
+
+853
+00:59:08,444 --> 00:59:09,812
+{\an8}I love you!

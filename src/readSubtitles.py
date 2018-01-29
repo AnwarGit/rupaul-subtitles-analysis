@@ -43,12 +43,21 @@ class superSubtitle:
                     print("Error interpreting the subtitles as "+ 'latin-1'+". Are these subtitles in English? Try selecting a different encoding using the 'encoding' argument.")
                 print('Error loading subtitle' + self.name + self.extension)
 
-    def toText(self):
+    def toText(self,no_music=True):
         """Return string containing all the captions from the file"""
         text = ""
 
         if(self.extension == 'srt'):
-            return self.subtitle.text
+            text = self.subtitle.text
+
+            # Filter out music
+            if no_music:
+                lines = text.splitlines()
+                text_list = [line for line in lines if not bool(re.search(r'.*♪.*',line))]
+                text = ""
+                for phrase in text_list:
+                    text+=phrase+"\n"
+            return text
 
         elif(self.extension == 'sub'):
             for x in self.subtitle.split("\n"):

@@ -20,8 +20,7 @@ class Collection():
         for subtitle_path in os.listdir(self.path):
             subtitle = rs.superSubtitle(self.path + "/" + subtitle_path)
             if subtitle.extension not in ['srt','sub','txt','tmp','smi','ssa']:
-                if subtitle.name.startswith('.DS_'):
-                    continue
+                continue #DEBUG
                 raise ValueError('Subtitle extension \''+subtitle.extension+'\' not compatible with superSubtitle. Supersubtitle can only read .srt, .sub, .txt, .tmp, .smi, .ssa subtitles.')
             subtitle_text = subtitle.toText()
             output_file.write(subtitle_text+"\n\n")
@@ -38,7 +37,7 @@ def joinAllwords(overall_path):
     for season in os.listdir(overall_path):
         if season.startswith('.DS_S'):
             continue
-        allwords = open(overall_path+'/'+season+'/allwords.txt','r')
+        allwords = open(overall_path+'/'+season+'/allwords_clean.txt','r')
 
         allwords_overall.write(allwords.read())
 

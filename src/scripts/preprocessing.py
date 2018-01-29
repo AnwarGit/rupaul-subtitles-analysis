@@ -32,7 +32,7 @@ tokens = [token for token in tokens if token not in stopwords]
 #stemmed_tokens = [stemmer.stem(token) for token in tokens]
 
 # Write each stemmed token into 'output.txt' in a new line
-outfile = open('output.txt', 'w')
+outfile = open('allwords_processed.txt', 'w')
 for token in tokens:
     outfile.write(token + "\n")
 outfile.close()

@@ -13,33 +13,28 @@ text = textfile.readlines()
 stopwords = stopwordsfile.read().split()
 
 # Case folding & remove stopwords
-text_rstripped = [line.lower().rstrip() for line in text]
+text = [line.rstrip().lower() for line in text]
 
-text_stopped = []
-for line in text_rstripped:
-    line_clean = [word for word in line.split() if (word not in stopwords)]
-    for word in line_clean:
-        text_stopped.append(word)
+text_stopped_1 = []
+for line in text:
+    for word in line.split():
+        if word not in stopwords:
+            text_stopped_1.append(word)
 
 
 text_clean = []
-for word in text_stopped:
+for word in text_stopped_1:
     word_ = word.translate(word.maketrans(string.punctuation, " " * len(string.punctuation)))
-    text_clean.append(word_)
+    for x in word_.split():
+        text_clean.append(x)
 
 
+text_stopped_2 = []
+for word in text_clean:
+    if word not in stopwords:
+        text_stopped_2.append(word)
 
-# print("Length of token list:\t", len(tokens))  # DEBUG
-
-
-
-# print("Stopwords removed from token list.")  # DEBUG
-# print("Length of token list after stopwords removal:\t", len(tokens))  # DEBUG
-
-# Stemming
-#stemmer = PorterStemmer()
-#stemmed_tokens = [stemmer.stem(token) for token in tokens]
-
+text_clean = text_stopped_2
 # Write each stemmed token into 'output.txt' in a new line
 outfile = open('allwords_processed.txt', 'w')
 for token in text_clean:

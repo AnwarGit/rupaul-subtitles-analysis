@@ -9,20 +9,29 @@ textfile = open(sys.argv[1], "r")
 stopwordsfile = open(sys.argv[2], "r")
 
 # Read text as a string and stopwords as a list
-text = textfile.read()
+text = textfile.readlines()
 stopwords = stopwordsfile.read().split()
 
-# Case folding & remove punctuation
-text = text.lower()
-text = text.translate(text.maketrans(
-    string.punctuation, " " * len(string.punctuation)))
+# Case folding & remove stopwords
+text_rstripped = [line.lower().rstrip() for line in text]
 
-# Tokenization
-tokens = text.split()
+text_stopped = []
+for line in text_rstripped:
+    line_clean = [word for word in line.split() if (word not in stopwords)]
+    for word in line_clean:
+        text_stopped.append(word)
+
+
+text_clean = []
+for word in text_stopped:
+    word_ = word.translate(word.maketrans(string.punctuation, " " * len(string.punctuation)))
+    text_clean.append(word_)
+
+
+
 # print("Length of token list:\t", len(tokens))  # DEBUG
 
-# Stopping
-tokens = [token for token in tokens if token not in stopwords]
+
 
 # print("Stopwords removed from token list.")  # DEBUG
 # print("Length of token list after stopwords removal:\t", len(tokens))  # DEBUG
@@ -33,6 +42,6 @@ tokens = [token for token in tokens if token not in stopwords]
 
 # Write each stemmed token into 'output.txt' in a new line
 outfile = open('allwords_processed.txt', 'w')
-for token in tokens:
+for token in text_clean:
     outfile.write(token + "\n")
 outfile.close()

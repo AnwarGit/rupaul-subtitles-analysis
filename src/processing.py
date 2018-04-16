@@ -33,10 +33,11 @@ class Collection():
 
 def joinAllwords(overall_path):
     allwords_overall = open('allwords_allseasons.txt','w')
-
+    print('Joining all words into a single file \'allwords_allseasons.txt\'')
     for season in os.listdir(overall_path):
         if season.startswith('.DS_S'):
             continue
+        print('Processing '+str(season)+'.')
         allwords = open(overall_path+'/'+season+'/allwords_clean.txt','r')
 
         allwords_overall.write(allwords.read())
